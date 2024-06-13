@@ -1,0 +1,1000 @@
+privateTime robert 20230514 1800 4.0
+projectMeeting lisa 20230515 1900 4.0 robert
+groupStudy lucy 20230511 2100 1.0 lily
+gathering michael 20230520 1900 3.0 lisa robert mary james lucy
+gathering lucy 20230505 2000 2.0 john mary lisa mike michael james robert
+gathering mike 20230525 2000 1.0 james mary lily michael lucy paul john
+gathering john 20230508 2100 1.0 paul lucy lisa lily robert
+privateTime paul 20230530 2000 3.0
+groupStudy lucy 20230515 1800 2.0 lily robert mary james lisa paul michael
+gathering lisa 20230528 1900 1.0 paul lucy robert mary lily
+privateTime lucy 20230511 2000 2.0
+privateTime lucy 20230511 1800 3.0
+projectMeeting robert 20230515 2000 2.0 lily lucy michael mike paul james lisa
+gathering lily 20230503 2100 1.0 paul james mike michael lucy robert mary
+gathering mary 20230518 1900 4.0 john
+groupStudy john 20230518 2100 1.0 lucy paul
+gathering paul 20230527 2100 2.0 robert james lucy lily lisa michael mary
+projectMeeting james 20230521 2000 3.0 mike john lily paul
+gathering lisa 20230501 2100 1.0 mike mary john james
+gathering paul 20230527 1800 3.0 michael james robert
+projectMeeting mary 20230512 1900 2.0 lisa paul james mike lily robert lucy
+privateTime mary 20230509 1900 3.0
+projectMeeting michael 20230514 1900 4.0 lily mary
+gathering mike 20230512 1800 3.0 lucy michael lisa robert paul james lily
+groupStudy mike 20230513 2000 2.0 james robert lily lucy michael
+projectMeeting michael 20230503 2100 2.0 mary mike john james lisa lily paul
+projectMeeting lisa 20230520 2100 2.0 paul michael john james
+gathering mary 20230508 1800 5.0 james john mike lucy
+groupStudy lucy 20230528 2000 3.0 john
+groupStudy michael 20230519 1800 3.0 paul mary lily
+groupStudy james 20230506 2000 1.0 michael robert
+gathering lily 20230502 2000 1.0 james paul lucy mike lisa robert mary john
+projectMeeting john 20230514 1800 2.0 lily michael mike lisa
+groupStudy paul 20230520 1800 1.0 john lisa mary robert
+privateTime lisa 20230527 2000 1.0
+groupStudy mary 20230520 2100 2.0 james lucy paul michael
+projectMeeting john 20230531 2100 2.0 lily lucy michael
+projectMeeting mary 20230504 2100 2.0 lily mike
+groupStudy mary 20230518 2000 3.0 james lisa michael lucy john mike robert lily paul
+gathering mary 20230517 1800 4.0 mike lily john lucy
+privateTime john 20230503 1800 4.0
+groupStudy john 20230511 2100 1.0 james lucy mary lisa mike lily
+gathering michael 20230508 1900 2.0 john lucy mary paul lisa mike robert lily james
+projectMeeting michael 20230503 2100 1.0 john lucy mary robert lily james lisa
+gathering michael 20230506 2000 1.0 mike mary paul lisa lily lucy john robert
+groupStudy mary 20230505 1800 3.0 paul lucy mike
+groupStudy robert 20230526 2000 1.0 michael paul lily john mary lucy james lisa mike
+projectMeeting michael 20230505 1900 3.0 mike
+gathering lily 20230516 1800 3.0 paul john mike
+gathering mike 20230515 1900 2.0 john robert michael
+projectMeeting lisa 20230506 2100 2.0 robert michael lily mike james lucy john paul
+privateTime lily 20230505 2000 1.0
+gathering john 20230517 2000 3.0 mary lisa
+projectMeeting michael 20230501 1800 3.0 mary paul john mike james robert lisa lucy
+projectMeeting james 20230525 1900 4.0 paul lily mary michael
+privateTime lucy 20230522 2100 2.0
+gathering mary 20230528 1900 2.0 paul mike john lily lisa michael james robert
+groupStudy lisa 20230508 1900 3.0 john robert mike
+groupStudy mike 20230511 2000 1.0 john james lily lucy michael paul mary robert lisa
+privateTime paul 20230504 1800 4.0
+groupStudy john 20230518 2100 1.0 paul james mary michael lily lisa mike lucy
+groupStudy michael 20230515 2100 2.0 paul robert mary lucy lily james mike lisa john
+privateTime lily 20230524 2000 3.0
+groupStudy lily 20230521 2000 3.0 lucy lisa paul
+privateTime james 20230517 1900 1.0
+projectMeeting lisa 20230506 1800 4.0 john lucy michael mike
+privateTime john 20230517 1800 2.0
+groupStudy lily 20230522 1900 4.0 michael
+groupStudy paul 20230509 2000 1.0 lucy
+groupStudy lisa 20230504 1900 4.0 robert lily james michael paul lucy
+groupStudy lily 20230502 2100 1.0 michael robert paul john lucy lisa james mike
+gathering robert 20230507 2000 1.0 paul
+gathering mike 20230526 1900 4.0 lily lucy
+privateTime lily 20230529 1900 1.0
+privateTime robert 20230516 2000 1.0
+gathering paul 20230528 1900 2.0 robert lisa lily mike mary james lucy
+projectMeeting lily 20230508 1900 3.0 john lucy paul mary
+projectMeeting robert 20230521 2100 1.0 mike james lisa lily mary michael
+privateTime lily 20230513 1900 4.0
+privateTime lucy 20230520 2100 1.0
+projectMeeting lisa 20230524 1800 1.0 michael mike lily paul mary
+privateTime paul 20230525 2000 3.0
+gathering mary 20230525 1800 4.0 lucy
+gathering lily 20230514 1900 2.0 paul mary
+projectMeeting lisa 20230521 2000 3.0 james
+gathering john 20230522 1800 1.0 lily mike james michael robert lucy paul mary lisa
+groupStudy lisa 20230512 2000 1.0 robert mary lucy james michael mike
+groupStudy paul 20230514 2100 2.0 lucy lisa
+groupStudy michael 20230515 1800 3.0 mike lucy james
+projectMeeting robert 20230502 1900 1.0 james paul john michael lisa mike lucy lily mary
+privateTime mike 20230503 2000 1.0
+gathering lucy 20230524 1800 5.0 lisa michael lily robert paul john james mike mary
+groupStudy mike 20230520 2100 1.0 james lisa robert michael lucy john paul lily
+gathering lucy 20230530 2100 1.0 michael mike john lisa mary paul lily
+projectMeeting paul 20230514 2000 1.0 robert
+projectMeeting mike 20230521 2000 1.0 paul lily
+gathering lucy 20230511 1800 4.0 james
+projectMeeting james 20230501 1900 3.0 mary lucy mike robert lisa michael john lily paul
+gathering lily 20230513 1900 1.0 john mary robert michael lucy mike lisa
+projectMeeting michael 20230519 1900 4.0 robert lucy paul lily james john
+projectMeeting john 20230526 1800 2.0 mike lisa james mary
+groupStudy lily 20230514 2100 1.0 lucy
+privateTime mike 20230520 1900 2.0
+gathering robert 20230505 2000 3.0 mary lucy mike john michael lisa lily
+groupStudy lily 20230510 2100 1.0 mike
+gathering james 20230503 1800 3.0 mary
+gathering lucy 20230505 1900 1.0 mary
+groupStudy michael 20230528 2000 1.0 robert lisa lucy paul lily john
+privateTime james 20230515 1800 2.0
+privateTime lisa 20230527 2100 2.0
+groupStudy lily 20230511 1800 5.0 paul lucy lisa michael john james
+privateTime lisa 20230511 1900 1.0
+privateTime mike 20230504 2000 3.0
+projectMeeting lisa 20230519 1900 1.0 robert john michael lucy james lily
+privateTime mike 20230520 2100 2.0
+groupStudy mike 20230510 1900 2.0 lisa james lily john michael paul mary robert lucy
+privateTime michael 20230508 2000 3.0
+projectMeeting lucy 20230508 1800 4.0 mary
+privateTime paul 20230512 2000 1.0
+privateTime lucy 20230501 1800 4.0
+privateTime lisa 20230527 2100 2.0
+privateTime lucy 20230518 1800 1.0
+groupStudy mary 20230521 2100 2.0 mike lisa
+groupStudy lily 20230515 1900 2.0 lucy james john mike paul
+groupStudy paul 20230531 2100 2.0 mike james mary
+privateTime lisa 20230513 2100 1.0
+projectMeeting paul 20230513 1900 1.0 lisa mary john lucy james
+projectMeeting mary 20230521 2100 1.0 mike john robert lucy lily michael lisa
+projectMeeting john 20230520 2100 2.0 lisa paul mary
+groupStudy mike 20230531 1900 3.0 michael john james lily paul lucy lisa robert mary
+groupStudy lily 20230519 2100 2.0 mike lucy paul james michael john mary
+gathering john 20230515 2100 1.0 mary robert michael lucy
+projectMeeting james 20230508 1800 1.0 lucy michael mike mary john robert paul lisa lily
+privateTime lily 20230525 1800 2.0
+projectMeeting paul 20230506 1800 2.0 james john
+privateTime mary 20230526 1800 1.0
+projectMeeting mary 20230516 1800 4.0 lisa paul
+groupStudy lisa 20230506 2000 3.0 robert lucy mike mary
+groupStudy robert 20230527 2100 2.0 john michael mary lisa james mike paul lily
+groupStudy mary 20230510 2100 2.0 michael lucy robert
+projectMeeting lisa 20230503 1800 4.0 john lily robert lucy
+groupStudy lisa 20230513 2100 1.0 lucy john james mike paul lily mary
+privateTime lucy 20230507 1800 2.0
+privateTime lily 20230509 1800 3.0
+gathering robert 20230531 2000 1.0 mary lily lisa mike michael john
+privateTime james 20230511 2000 1.0
+gathering robert 20230518 2100 1.0 lily paul
+privateTime lisa 20230526 2100 1.0
+groupStudy mike 20230523 1900 3.0 lucy mary michael lily lisa paul james john robert
+groupStudy lily 20230504 1800 4.0 paul john mary james michael mike
+projectMeeting paul 20230524 2100 2.0 mike john robert lily lisa james michael
+groupStudy robert 20230516 2000 1.0 james lisa mary
+projectMeeting mary 20230517 1900 2.0 james michael
+privateTime mike 20230525 2000 2.0
+privateTime mary 20230523 2000 1.0
+groupStudy robert 20230503 2000 2.0 paul james john lily lisa mike
+privateTime mary 20230526 2100 2.0
+gathering mike 20230516 2000 2.0 michael lucy robert
+privateTime michael 20230527 1800 2.0
+groupStudy robert 20230502 1800 2.0 michael john lisa mike mary paul lily james
+gathering michael 20230524 1800 2.0 robert john lily
+gathering michael 20230526 1900 3.0 james paul mike john mary lucy lisa lily robert
+groupStudy mike 20230525 1800 4.0 robert michael lisa john james paul lucy lily
+gathering michael 20230515 2100 2.0 james lisa mike mary
+projectMeeting mike 20230505 1900 1.0 john
+privateTime michael 20230526 1900 1.0
+gathering robert 20230506 2100 1.0 mary
+gathering lucy 20230518 1800 2.0 mary james john lisa lily robert
+groupStudy michael 20230515 2000 3.0 mike lily lisa paul robert john mary lucy
+groupStudy mary 20230530 2000 1.0 paul james lucy michael lily john
+privateTime paul 20230516 2100 1.0
+gathering michael 20230508 1900 4.0 paul robert lucy mike lily
+privateTime michael 20230513 1800 1.0
+privateTime michael 20230501 1800 4.0
+projectMeeting michael 20230513 1900 1.0 paul lily lisa james john robert mary mike
+gathering lily 20230516 2000 3.0 lucy
+projectMeeting robert 20230515 1800 2.0 lily paul james lucy lisa michael mary mike
+gathering john 20230506 2000 2.0 paul michael mike mary james lucy
+privateTime james 20230512 1900 2.0
+projectMeeting mike 20230531 2100 1.0 lisa paul lily lucy john michael robert james mary
+gathering john 20230507 2100 2.0 lisa james lily robert mary paul lucy michael mike
+gathering john 20230503 1800 5.0 mary paul lucy lisa mike james robert
+privateTime robert 20230516 2000 3.0
+projectMeeting mary 20230514 2000 2.0 lucy lisa lily
+gathering mary 20230520 1900 4.0 mike paul lily james michael lucy
+privateTime robert 20230530 2000 2.0
+gathering james 20230504 1900 3.0 lily
+groupStudy michael 20230522 1900 2.0 lily lucy james mike
+gathering james 20230515 2100 1.0 lisa mike john lily lucy robert paul michael
+projectMeeting john 20230515 2100 2.0 lucy mike michael mary james
+privateTime lily 20230511 2100 2.0
+groupStudy mary 20230504 2000 2.0 james lisa lucy paul
+privateTime robert 20230501 1900 3.0
+groupStudy mike 20230526 1900 4.0 lily mary john lisa michael
+groupStudy mike 20230523 2100 2.0 john james lucy michael mary lisa lily
+groupStudy john 20230513 2000 3.0 mary robert michael paul lily
+groupStudy michael 20230525 2000 3.0 mary john robert mike lily james
+gathering paul 20230506 1900 2.0 michael robert mary
+privateTime mary 20230531 2000 1.0
+gathering robert 20230507 2100 2.0 mary lucy lily paul michael james lisa mike
+privateTime lisa 20230519 1900 3.0
+groupStudy lisa 20230518 1900 4.0 michael lucy
+privateTime lily 20230516 1900 1.0
+privateTime lisa 20230527 1900 3.0
+groupStudy michael 20230516 2100 1.0 paul mike john mary lucy james
+privateTime mike 20230524 1900 3.0
+gathering robert 20230514 1800 3.0 james lisa mary lily michael paul mike lucy john
+privateTime lily 20230520 1900 3.0
+gathering lily 20230512 1900 3.0 john james lucy robert mike
+gathering mary 20230526 2000 3.0 lucy john lisa robert james mike
+gathering mike 20230524 2000 3.0 james mary john paul robert michael
+projectMeeting paul 20230521 1900 1.0 michael james mike robert lucy lily mary john lisa
+groupStudy mike 20230512 1900 1.0 lisa lily robert james michael mary john
+privateTime lucy 20230521 2100 1.0
+gathering lily 20230531 2000 3.0 james
+groupStudy james 20230523 2000 2.0 robert mike lily lisa paul mary lucy john michael
+gathering paul 20230502 1900 2.0 mary lucy lily mike james robert john lisa michael
+gathering john 20230508 1800 2.0 michael mary james paul mike lisa lucy robert lily
+privateTime michael 20230523 1900 4.0
+groupStudy lisa 20230528 1800 1.0 robert john mary lily mike james lucy paul michael
+projectMeeting mary 20230517 2100 2.0 john paul lucy robert lisa
+projectMeeting lily 20230515 2000 3.0 michael paul
+privateTime robert 20230510 1900 4.0
+privateTime michael 20230504 2100 2.0
+gathering paul 20230525 1900 4.0 mike robert james lucy
+projectMeeting james 20230509 1900 3.0 robert mary michael paul lucy lily
+gathering robert 20230514 1800 2.0 mary lily paul
+gathering lucy 20230503 2100 1.0 lisa john lily james michael paul mary mike
+groupStudy james 20230507 2100 1.0 paul mike
+privateTime paul 20230517 2000 1.0
+groupStudy james 20230505 1900 2.0 michael lily lucy mike
+groupStudy mike 20230505 2000 2.0 john
+projectMeeting james 20230504 1900 1.0 lily lisa mike lucy john mary michael
+privateTime lucy 20230515 1900 1.0
+privateTime john 20230530 2000 3.0
+projectMeeting lucy 20230515 2100 1.0 mary
+privateTime lisa 20230516 1900 3.0
+privateTime john 20230502 1900 2.0
+groupStudy mike 20230516 2100 2.0 mary paul lucy john james lily robert lisa michael
+projectMeeting lucy 20230514 2100 2.0 paul mary robert michael
+privateTime mike 20230517 2000 3.0
+groupStudy michael 20230514 1800 4.0 lucy john robert lily mary mike james lisa paul
+privateTime john 20230514 1800 4.0
+projectMeeting john 20230513 2000 1.0 mike lucy michael mary
+groupStudy lily 20230503 2000 3.0 lucy mary mike michael james paul
+gathering lisa 20230509 2100 2.0 mike lily james
+projectMeeting james 20230504 1800 2.0 lucy paul mary
+groupStudy michael 20230515 1800 3.0 james robert lisa mary lucy paul lily john
+gathering lisa 20230517 2100 2.0 paul michael james lily robert
+projectMeeting john 20230523 1800 5.0 mary james lucy paul lisa
+groupStudy lucy 20230526 2000 1.0 robert lily mike james
+projectMeeting mike 20230525 1900 4.0 lily
+groupStudy mike 20230505 2100 2.0 paul robert lucy
+groupStudy paul 20230530 1800 3.0 lucy mary lily james michael
+groupStudy michael 20230509 2100 2.0 lucy james john robert mary lisa lily mike paul
+privateTime robert 20230520 2000 2.0
+gathering paul 20230504 1900 2.0 michael lucy
+projectMeeting james 20230525 2000 3.0 mike lily lisa paul
+privateTime lisa 20230525 1900 2.0
+gathering john 20230503 2000 2.0 paul lily
+projectMeeting lisa 20230508 2100 2.0 michael
+privateTime lily 20230526 2100 2.0
+groupStudy lily 20230516 1900 4.0 james paul michael mike
+projectMeeting paul 20230501 2100 1.0 mike john james robert lily
+privateTime john 20230514 2000 1.0
+projectMeeting michael 20230530 1900 3.0 john mary lucy paul
+gathering mike 20230512 2100 1.0 michael mary paul robert lisa james
+projectMeeting paul 20230524 2100 2.0 mike robert
+projectMeeting michael 20230505 1900 4.0 mary
+projectMeeting lucy 20230510 1900 1.0 robert john lisa michael mary james mike paul
+gathering lisa 20230509 1800 2.0 james lucy mike mary john michael
+gathering paul 20230519 1900 4.0 john
+privateTime lisa 20230530 1800 4.0
+groupStudy james 20230505 2000 3.0 paul lucy michael lily
+projectMeeting lily 20230525 2100 2.0 mike john paul lisa lucy james michael
+privateTime james 20230506 1900 1.0
+gathering john 20230513 2100 2.0 james mary
+projectMeeting robert 20230514 2000 2.0 james john lucy paul mary mike michael
+projectMeeting lily 20230518 1800 1.0 lucy michael mike paul lisa mary james john robert
+groupStudy lisa 20230502 2100 2.0 lucy james lily robert paul john mary mike michael
+groupStudy james 20230518 2000 1.0 michael lucy john
+gathering mary 20230510 1900 1.0 james john
+projectMeeting michael 20230523 1800 4.0 john lisa paul
+gathering mary 20230508 1900 3.0 mike lily robert paul michael
+gathering mary 20230521 2000 3.0 mike lisa michael james robert paul lily john lucy
+projectMeeting robert 20230505 2000 2.0 michael paul john
+gathering robert 20230502 1800 4.0 mike michael james paul lucy lisa lily john
+projectMeeting michael 20230511 2000 2.0 lucy john paul mike lisa robert mary lily
+privateTime michael 20230511 2100 2.0
+projectMeeting michael 20230521 1900 1.0 mike mary
+projectMeeting mary 20230522 1900 2.0 john robert
+gathering james 20230520 1800 4.0 lily robert paul lisa john lucy michael mary
+gathering john 20230510 1900 1.0 lisa mary
+privateTime paul 20230504 1900 4.0
+gathering lisa 20230521 2100 2.0 mike james robert paul mary
+groupStudy lisa 20230503 1900 4.0 mary robert
+gathering lucy 20230524 1800 1.0 lisa
+privateTime james 20230522 2000 1.0
+groupStudy paul 20230509 1800 5.0 mike michael robert mary
+groupStudy paul 20230524 1900 2.0 lucy john mike lily james lisa
+privateTime paul 20230518 2100 1.0
+projectMeeting lily 20230520 1800 3.0 michael mary lisa john paul
+gathering lisa 20230510 2000 2.0 lily robert paul mike mary james michael john lucy
+groupStudy lily 20230520 1900 4.0 robert lucy lisa paul james michael mike
+projectMeeting michael 20230501 2100 2.0 lucy lisa mike robert paul lily
+projectMeeting lily 20230506 2000 3.0 mike michael robert lisa john mary paul
+privateTime michael 20230521 2100 1.0
+groupStudy lucy 20230522 2100 1.0 paul mike robert
+gathering robert 20230501 1900 2.0 mary michael lily mike paul lisa lucy james john
+projectMeeting mary 20230520 2000 2.0 james lily john michael robert
+groupStudy michael 20230514 1800 2.0 mike
+groupStudy mike 20230527 1900 1.0 paul
+projectMeeting lisa 20230509 2100 1.0 michael mary john lucy
+groupStudy mike 20230502 2100 2.0 lucy robert lisa michael lily james john mary
+projectMeeting michael 20230505 1900 2.0 lily lucy lisa james mary mike robert
+privateTime mike 20230525 1800 3.0
+gathering robert 20230529 1800 2.0 john paul
+gathering mary 20230518 1800 2.0 michael james lisa john lily lucy
+projectMeeting mary 20230507 1800 1.0 lily james paul mike michael john
+projectMeeting mike 20230504 1800 3.0 paul james lily michael robert mary lucy lisa john
+projectMeeting lisa 20230510 2100 2.0 mary lucy michael mike james lily
+groupStudy james 20230519 2100 2.0 michael john lucy robert mike lily lisa
+projectMeeting mary 20230504 1900 2.0 robert james
+gathering paul 20230529 1800 1.0 mike lucy lily mary michael
+privateTime paul 20230513 1800 4.0
+privateTime michael 20230523 2100 1.0
+privateTime john 20230525 1800 4.0
+projectMeeting james 20230514 2000 1.0 paul lucy john mary lily
+privateTime james 20230523 2100 1.0
+groupStudy james 20230508 1800 2.0 mary lisa john lucy
+groupStudy lisa 20230518 1800 5.0 paul mike
+projectMeeting james 20230511 2100 1.0 robert mary mike john michael lucy
+projectMeeting paul 20230507 2100 2.0 lisa lucy james mary john lily michael mike robert
+groupStudy james 20230528 2100 2.0 mike john robert mary
+groupStudy lily 20230529 1900 2.0 lisa paul james
+gathering robert 20230514 1900 2.0 lisa mary lily james mike michael
+projectMeeting lisa 20230517 1900 1.0 lucy mary lily james john mike
+gathering lisa 20230529 2000 1.0 mary john michael james robert lily
+privateTime john 20230526 2000 1.0
+privateTime lucy 20230524 1900 4.0
+groupStudy robert 20230514 2100 1.0 john james mary michael mike
+groupStudy lisa 20230501 2000 2.0 mary lily paul james lucy
+groupStudy lucy 20230507 1800 5.0 michael john robert lisa mary lily
+projectMeeting lisa 20230531 1800 2.0 lucy mike
+gathering lucy 20230520 2100 2.0 james lisa paul john mike michael
+groupStudy lily 20230529 1900 1.0 lucy michael james john mike
+projectMeeting james 20230526 1900 3.0 john mary lucy lisa lily
+gathering mary 20230522 2100 2.0 lily mike john james lisa
+groupStudy james 20230521 2000 3.0 paul lucy lily robert mike
+gathering lisa 20230529 2100 2.0 james john lucy
+groupStudy lisa 20230509 2000 3.0 james robert
+groupStudy paul 20230506 1800 3.0 mary lily robert michael james lisa john mike lucy
+groupStudy lisa 20230519 1900 3.0 michael robert
+groupStudy lisa 20230517 2100 2.0 james mike john lucy paul michael lily mary robert
+privateTime james 20230516 2000 2.0
+privateTime mike 20230511 1900 3.0
+privateTime lisa 20230524 1900 3.0
+projectMeeting mike 20230503 2000 1.0 michael lucy lily paul james john robert
+gathering john 20230521 1900 4.0 mary lily lisa paul mike michael
+groupStudy lisa 20230514 2100 1.0 lily
+projectMeeting lucy 20230519 1900 4.0 lisa
+gathering robert 20230523 2100 2.0 lily lisa
+gathering james 20230508 1900 4.0 lily michael paul lisa
+groupStudy lisa 20230501 1800 3.0 lily robert james mike john lucy michael mary paul
+projectMeeting michael 20230523 2100 1.0 john lily
+privateTime mike 20230528 2000 3.0
+groupStudy mike 20230520 2000 1.0 james lucy robert michael mary
+groupStudy lisa 20230515 1800 4.0 mary
+privateTime michael 20230515 1800 5.0
+groupStudy robert 20230529 1900 4.0 lucy mary john lisa
+gathering michael 20230528 1900 4.0 james john lucy lisa robert paul
+projectMeeting james 20230518 1900 4.0 mary paul
+groupStudy james 20230504 2100 2.0 lily paul john michael robert mike
+groupStudy paul 20230531 1900 2.0 lily
+gathering lucy 20230523 1900 1.0 mary robert michael paul
+groupStudy lucy 20230514 2100 2.0 john mary
+groupStudy lily 20230527 1800 2.0 michael
+gathering john 20230511 2000 2.0 mary
+gathering mike 20230509 2100 2.0 lily james lucy paul lisa robert john mary michael
+groupStudy lucy 20230517 1800 4.0 john
+gathering john 20230523 2100 1.0 lisa
+privateTime john 20230528 1900 2.0
+groupStudy michael 20230515 2100 2.0 james lucy robert lisa
+privateTime john 20230503 2000 1.0
+gathering robert 20230522 2100 2.0 mike michael paul mary james lucy lily
+gathering paul 20230516 2000 3.0 lily john michael mike james mary robert lisa
+groupStudy james 20230509 2100 2.0 robert mike lucy lisa john
+projectMeeting mary 20230524 2100 2.0 robert lisa paul michael james john
+projectMeeting john 20230504 2100 2.0 paul mary lisa michael lily
+gathering robert 20230502 2100 1.0 mike mary lily james paul lisa michael lucy john
+projectMeeting robert 20230509 2000 1.0 michael lucy mary lily mike
+groupStudy mary 20230508 1800 5.0 mike lisa paul
+gathering john 20230517 2000 3.0 michael james
+gathering paul 20230517 2100 2.0 robert
+groupStudy robert 20230518 2000 2.0 lucy michael lily mike mary paul
+projectMeeting mike 20230513 2100 1.0 mary lily michael james
+gathering lisa 20230520 1800 3.0 lucy paul robert john
+gathering lily 20230505 1800 3.0 robert lisa james lucy
+gathering lisa 20230516 2100 2.0 james paul lily mary
+groupStudy john 20230514 2000 2.0 lily paul
+privateTime mike 20230502 1900 2.0
+projectMeeting michael 20230504 1800 3.0 lisa lily lucy
+privateTime john 20230507 2000 3.0
+gathering lisa 20230528 1900 3.0 michael john lucy robert lily mary james
+groupStudy mike 20230530 2100 2.0 mary james michael robert paul lucy john
+projectMeeting michael 20230509 2100 1.0 james mary lily lucy mike robert john lisa
+groupStudy lisa 20230509 1800 5.0 james lily john mary robert
+groupStudy paul 20230517 2000 2.0 mike robert james michael lily
+groupStudy lily 20230528 2000 1.0 james lucy john robert michael mary mike paul lisa
+gathering mike 20230510 2100 1.0 lucy
+privateTime lucy 20230517 1800 3.0
+projectMeeting john 20230517 1900 3.0 lisa michael mike lily james mary lucy robert paul
+groupStudy lisa 20230522 1900 1.0 mike lucy paul lily james mary john michael robert
+gathering paul 20230506 1900 1.0 lily robert james john mike lisa mary lucy
+projectMeeting paul 20230513 2100 1.0 lisa lily
+groupStudy robert 20230518 1800 2.0 mike paul lucy lisa mary michael james lily john
+privateTime lily 20230501 2100 2.0
+gathering paul 20230528 2000 3.0 mike lucy michael robert lisa john james lily mary
+gathering john 20230523 1800 2.0 lily lucy michael paul mike mary lisa
+gathering robert 20230509 2000 2.0 john lisa paul mary michael
+privateTime lisa 20230518 2000 2.0
+privateTime lucy 20230523 2100 2.0
+privateTime robert 20230521 1800 1.0
+projectMeeting mike 20230516 1800 5.0 paul john lucy lily
+groupStudy robert 20230527 1800 4.0 michael
+privateTime michael 20230529 1900 2.0
+privateTime mary 20230511 2100 1.0
+gathering lisa 20230502 1800 3.0 john mary paul james michael robert lucy
+projectMeeting paul 20230501 2100 2.0 robert lucy james lisa mary mike michael john lily
+groupStudy paul 20230503 2000 1.0 lucy robert lily michael mary james john mike
+privateTime mary 20230510 1800 5.0
+projectMeeting john 20230517 1900 4.0 mary michael paul lisa lucy mike
+projectMeeting james 20230531 1900 1.0 lisa mike mary michael
+privateTime michael 20230526 1900 1.0
+privateTime lily 20230525 2100 1.0
+gathering james 20230514 2000 1.0 robert lucy michael mary lisa john
+groupStudy james 20230501 2000 2.0 lucy paul lisa mike lily
+privateTime john 20230504 1800 3.0
+privateTime john 20230528 1900 3.0
+gathering mary 20230509 2000 1.0 robert lily paul michael mike lucy james john
+privateTime mike 20230519 1800 4.0
+projectMeeting michael 20230504 2000 2.0 lily paul john mary
+privateTime mary 20230524 1900 1.0
+gathering mike 20230505 2000 3.0 james michael lucy
+projectMeeting mike 20230508 2000 3.0 john lisa lily robert michael paul lucy
+projectMeeting lily 20230520 1800 1.0 mike james john mary lisa
+groupStudy john 20230518 1800 2.0 robert james lucy lily mike lisa
+privateTime mike 20230527 1800 4.0
+projectMeeting paul 20230531 2100 2.0 michael robert lisa john mary mike lucy james lily
+gathering mike 20230502 2100 1.0 lisa john lily robert michael lucy paul mary james
+groupStudy robert 20230531 2000 3.0 lily lisa
+gathering michael 20230509 2100 2.0 james paul lucy robert lisa mary john
+groupStudy john 20230512 1900 1.0 michael lily lisa robert paul mike lucy
+gathering lisa 20230526 2100 2.0 lucy robert john
+projectMeeting lisa 20230516 1800 3.0 robert mike mary lucy james paul michael lily john
+groupStudy lisa 20230527 2000 1.0 paul lucy michael lily mike robert
+groupStudy lisa 20230511 2100 2.0 michael lucy paul james robert mike
+gathering mary 20230510 2000 2.0 michael james lily lucy lisa john mike robert
+privateTime mike 20230504 1800 1.0
+groupStudy james 20230515 1800 3.0 lucy lily lisa paul
+groupStudy lucy 20230512 2000 2.0 michael john lily mike robert
+groupStudy paul 20230506 1800 3.0 john lisa michael james lucy mary lily robert
+privateTime robert 20230520 1900 1.0
+gathering mike 20230502 1900 1.0 john robert lucy lily james lisa mary
+projectMeeting mike 20230508 2100 1.0 paul james john lucy mary michael
+privateTime paul 20230524 2000 3.0
+groupStudy lucy 20230512 1900 3.0 lisa robert
+privateTime lisa 20230528 2100 2.0
+projectMeeting lisa 20230526 2100 1.0 mike lily
+gathering mary 20230507 2100 2.0 mike lucy james lily michael john paul lisa robert
+projectMeeting lisa 20230520 1800 5.0 lucy
+privateTime michael 20230522 2000 2.0
+projectMeeting lisa 20230513 1800 5.0 john james mike michael robert paul lily
+projectMeeting paul 20230507 1900 1.0 lucy john robert
+groupStudy mary 20230504 2000 3.0 robert mike john james lisa
+privateTime robert 20230509 2000 2.0
+groupStudy john 20230510 2100 1.0 james lucy michael lily mary lisa robert mike paul
+groupStudy lucy 20230517 2100 1.0 robert john michael lily james lisa mike paul mary
+privateTime lucy 20230508 2100 2.0
+privateTime lisa 20230502 1900 2.0
+projectMeeting james 20230503 1900 3.0 john
+projectMeeting robert 20230507 2000 1.0 lily lucy james paul mike michael mary lisa
+groupStudy lisa 20230514 2000 3.0 john lucy lily
+groupStudy lily 20230521 2000 1.0 james lisa mike mary
+privateTime lisa 20230524 1800 4.0
+projectMeeting paul 20230526 1900 2.0 mary john
+privateTime robert 20230510 2100 1.0
+privateTime lisa 20230524 1800 5.0
+gathering mike 20230511 2000 3.0 lisa robert lucy
+privateTime john 20230504 1900 3.0
+privateTime michael 20230522 1900 4.0
+gathering lisa 20230509 1900 1.0 james paul robert mike john michael lily lucy mary
+groupStudy mike 20230524 1800 5.0 paul lucy james lily michael lisa john robert
+groupStudy john 20230516 2100 2.0 robert lily paul mike
+gathering mike 20230504 1900 4.0 robert john lily lucy paul james lisa michael mary
+projectMeeting lucy 20230503 1900 2.0 john james lily robert paul lisa mike
+gathering lisa 20230526 2100 1.0 lily james michael mary mike paul john lucy
+privateTime mary 20230530 2100 2.0
+gathering mary 20230512 1900 2.0 robert michael mike paul james lucy lily john
+privateTime lisa 20230518 2000 1.0
+groupStudy mary 20230517 1800 4.0 lily lisa lucy michael john paul robert mike james
+projectMeeting james 20230507 2100 2.0 mike robert paul john
+privateTime michael 20230519 2100 1.0
+gathering james 20230505 1900 2.0 mike lisa lily john robert michael
+privateTime mary 20230502 2100 2.0
+projectMeeting michael 20230502 1800 3.0 robert john lucy james lisa mike lily mary
+gathering paul 20230528 1900 4.0 mike
+projectMeeting james 20230529 1900 3.0 lisa john
+groupStudy james 20230509 1900 2.0 mary lily robert
+groupStudy lisa 20230509 1800 1.0 james john lucy lily mike mary robert michael paul
+gathering lisa 20230515 1900 3.0 mary paul lucy
+projectMeeting paul 20230531 2100 2.0 michael mike james john lucy lily mary robert
+gathering lucy 20230512 1800 5.0 michael mary paul john james lily robert lisa
+projectMeeting mary 20230511 1900 1.0 robert michael
+projectMeeting mike 20230527 1800 4.0 john paul lily lisa mary robert michael
+privateTime mike 20230527 2100 2.0
+privateTime lily 20230505 1800 1.0
+projectMeeting lisa 20230509 2000 3.0 mary michael robert paul john
+projectMeeting paul 20230518 2100 2.0 lucy michael robert
+gathering lisa 20230520 1900 1.0 james
+gathering john 20230531 2000 1.0 james mike lisa mary michael lucy lily paul
+gathering mike 20230528 2000 1.0 robert paul lisa
+groupStudy michael 20230512 1900 1.0 lucy lisa lily robert
+projectMeeting mary 20230505 1800 4.0 paul james lucy john lily lisa robert
+privateTime michael 20230508 2000 3.0
+gathering john 20230509 1900 4.0 mike lucy mary lily
+projectMeeting michael 20230526 2000 3.0 lisa mike robert
+privateTime paul 20230512 2000 3.0
+gathering michael 20230524 1800 2.0 mike lucy mary james robert
+privateTime james 20230512 1900 1.0
+projectMeeting michael 20230512 2000 2.0 mike mary lily lucy
+gathering john 20230503 2000 2.0 robert lucy
+groupStudy james 20230501 2000 3.0 robert mary lucy michael john
+groupStudy mike 20230505 2000 3.0 robert michael lucy james john lily paul lisa mary
+projectMeeting lucy 20230518 1800 4.0 robert james mike lisa michael lily mary
+projectMeeting lisa 20230515 2000 3.0 mike lily michael james mary paul john
+projectMeeting james 20230521 1900 2.0 lucy lisa lily john paul michael mike
+gathering john 20230527 2100 1.0 paul lucy mary
+gathering james 20230514 1800 5.0 lucy michael lily john
+gathering lisa 20230524 2000 1.0 paul mike lily michael john james lucy mary robert
+groupStudy lucy 20230514 1900 1.0 mary john lisa mike lily james paul
+projectMeeting james 20230514 2000 2.0 lucy robert mary paul michael mike lisa lily john
+projectMeeting john 20230522 1900 4.0 robert mary lisa mike lily
+projectMeeting john 20230523 1900 2.0 mary mike paul james
+projectMeeting robert 20230501 2000 2.0 lucy mary lily mike james
+projectMeeting robert 20230526 1900 1.0 lily james mary lucy john michael lisa
+gathering mike 20230530 2100 2.0 paul mary lisa michael john lucy robert james lily
+projectMeeting lisa 20230522 1900 4.0 mary paul lily mike james robert
+gathering mike 20230503 1900 2.0 robert lily
+gathering lily 20230517 2000 2.0 paul lucy john michael
+privateTime james 20230509 2000 2.0
+gathering robert 20230510 2100 1.0 mike mary
+groupStudy lisa 20230514 2100 1.0 james robert mike john mary paul lily michael lucy
+privateTime lucy 20230508 1900 2.0
+gathering mary 20230517 1900 4.0 mike robert paul michael lily john james lucy lisa
+projectMeeting john 20230514 2100 1.0 james mike paul lily
+projectMeeting lily 20230501 1900 3.0 mary james john lisa paul robert lucy mike
+groupStudy james 20230513 2100 2.0 john paul
+projectMeeting paul 20230528 2100 1.0 lisa john michael james lily lucy mary robert mike
+gathering michael 20230528 2100 2.0 john james
+privateTime james 20230523 2000 3.0
+groupStudy lucy 20230505 2000 3.0 mary michael james robert john paul lily
+projectMeeting lily 20230516 2000 2.0 mary
+gathering lucy 20230509 2000 2.0 mike lily michael mary
+privateTime paul 20230521 1800 4.0
+gathering mary 20230519 2100 1.0 michael james paul lucy mike john robert lily lisa
+privateTime paul 20230531 2100 2.0
+gathering michael 20230515 1900 2.0 john lisa lucy lily mike
+projectMeeting lisa 20230510 2000 3.0 robert lucy john james lily
+gathering john 20230517 1900 3.0 michael
+privateTime lisa 20230521 2000 2.0
+projectMeeting lily 20230517 1800 1.0 paul robert mary james
+gathering lucy 20230511 1900 2.0 robert mary michael
+projectMeeting paul 20230520 2000 2.0 robert mike lily
+groupStudy lily 20230513 2000 2.0 mike robert paul james lucy john mary
+groupStudy robert 20230530 2100 2.0 lucy james john mike michael paul
+gathering james 20230518 2100 2.0 lucy lily lisa john paul michael mike mary robert
+groupStudy lily 20230521 1800 1.0 robert lisa michael john
+projectMeeting michael 20230527 1900 3.0 mike mary john robert james lisa
+privateTime mary 20230511 2000 1.0
+projectMeeting lisa 20230525 2100 2.0 john lucy
+groupStudy paul 20230512 1800 5.0 mary james john mike
+groupStudy mary 20230515 2000 3.0 lily lucy
+privateTime mary 20230520 1900 3.0
+gathering mike 20230530 2100 1.0 robert james paul michael mary lucy
+privateTime lisa 20230502 1900 3.0
+privateTime lily 20230524 2000 1.0
+gathering mike 20230531 2000 2.0 john lucy robert james michael
+groupStudy james 20230524 2100 2.0 lisa lily mike mary
+projectMeeting lisa 20230527 1900 3.0 robert lucy mary mike james paul
+projectMeeting lily 20230505 1800 5.0 mary james lucy robert paul mike lisa michael
+gathering mary 20230511 2000 2.0 lily
+projectMeeting john 20230512 1800 2.0 robert mary james
+projectMeeting lily 20230529 1800 1.0 james robert lucy john lisa
+privateTime lucy 20230509 1800 1.0
+privateTime michael 20230508 2000 3.0
+gathering robert 20230513 2000 3.0 mike paul lucy james
+privateTime lucy 20230519 2000 3.0
+groupStudy robert 20230512 2100 2.0 mary lily
+projectMeeting mary 20230513 1900 3.0 robert mike lisa james paul
+projectMeeting paul 20230526 1900 4.0 john james mary lily lisa michael robert mike
+privateTime john 20230506 2000 2.0
+groupStudy john 20230502 1900 4.0 lily mike michael
+projectMeeting james 20230509 1800 1.0 lisa michael robert
+gathering robert 20230512 2100 1.0 john
+projectMeeting lisa 20230517 2000 2.0 mary lily mike lucy michael
+projectMeeting john 20230527 2000 3.0 lisa mary robert paul
+groupStudy lisa 20230511 1800 1.0 james mike lucy paul robert michael mary lily john
+projectMeeting lisa 20230528 2000 3.0 lily lucy john
+privateTime mike 20230507 1900 3.0
+gathering michael 20230510 1900 1.0 mary lucy john mike
+gathering james 20230501 2000 3.0 john lucy mary paul mike
+groupStudy lisa 20230505 2100 1.0 mike lily mary paul james michael robert john
+gathering james 20230510 1900 4.0 mary robert john mike lily lucy
+gathering mary 20230517 2000 3.0 mike paul lily lisa robert lucy michael
+privateTime james 20230510 2100 1.0
+gathering lily 20230519 2000 1.0 robert john mary
+privateTime robert 20230514 2000 3.0
+privateTime lucy 20230524 1900 2.0
+projectMeeting james 20230511 2100 1.0 michael robert mike john
+projectMeeting mary 20230506 2100 1.0 lisa
+privateTime lily 20230521 2000 2.0
+gathering john 20230501 1900 4.0 mary mike robert
+projectMeeting mary 20230527 1900 1.0 lily john robert lucy mike lisa paul michael james
+privateTime james 20230514 1800 5.0
+groupStudy lucy 20230527 2100 1.0 lily paul
+groupStudy mike 20230508 1800 4.0 paul lucy lisa michael
+privateTime lily 20230513 2100 1.0
+gathering mary 20230501 2100 1.0 lily john michael robert mike lucy
+projectMeeting mike 20230502 1800 4.0 john mary lisa lily paul lucy
+projectMeeting mike 20230509 2000 2.0 lily michael paul john
+privateTime michael 20230503 2100 2.0
+gathering michael 20230508 2000 2.0 lisa mike lily paul mary robert lucy james
+groupStudy john 20230521 1900 1.0 michael
+groupStudy lisa 20230518 2100 1.0 lily lucy robert michael mike mary james
+gathering james 20230526 1900 2.0 mary lucy
+projectMeeting robert 20230527 1800 5.0 mike paul lily
+gathering lily 20230514 2100 1.0 paul mike john lucy mary james robert michael
+projectMeeting mike 20230502 1900 3.0 paul mary lily robert james john lisa lucy michael
+groupStudy mike 20230507 2000 1.0 john lucy
+gathering michael 20230519 1800 1.0 james lisa paul mary mike lucy robert lily
+privateTime james 20230513 2100 1.0
+groupStudy mary 20230512 1800 3.0 lisa lily john michael lucy
+privateTime john 20230508 2100 2.0
+projectMeeting lisa 20230523 2100 2.0 robert paul lucy mike michael mary james
+gathering lisa 20230528 2000 1.0 michael john james lily mike mary lucy
+groupStudy lucy 20230531 1900 1.0 mike john lily lisa
+gathering mike 20230518 1900 1.0 james paul lucy robert lily lisa john michael mary
+projectMeeting lisa 20230508 1900 4.0 lily
+groupStudy paul 20230515 1900 4.0 mike john robert james lily lucy
+projectMeeting mary 20230514 2000 1.0 lucy john michael lily lisa james robert paul mike
+privateTime paul 20230502 2000 1.0
+privateTime robert 20230525 1800 5.0
+privateTime mike 20230514 1800 1.0
+groupStudy paul 20230528 1800 3.0 lily john lucy james lisa mike
+projectMeeting lily 20230517 2000 1.0 mary mike james robert john michael
+groupStudy lisa 20230505 1800 1.0 james mary lucy paul
+privateTime mike 20230517 1900 4.0
+gathering mike 20230504 2000 3.0 lily lisa james robert
+projectMeeting lily 20230531 1900 4.0 michael
+privateTime lily 20230513 2100 2.0
+groupStudy lucy 20230530 1900 4.0 mary paul michael lily john
+groupStudy robert 20230503 2000 1.0 john james paul lisa michael mary mike lucy
+groupStudy lucy 20230528 1900 2.0 lisa mike james paul lily john
+privateTime lily 20230521 1900 2.0
+privateTime mike 20230511 2100 2.0
+gathering lily 20230525 2100 1.0 mike mary
+groupStudy lily 20230528 2000 2.0 mike mary john james lucy michael lisa
+projectMeeting lucy 20230506 2000 3.0 lily mary mike lisa
+gathering lucy 20230512 1900 4.0 lily james paul mike mary michael robert john
+groupStudy lucy 20230528 2000 1.0 lily mary paul
+privateTime lucy 20230518 2000 2.0
+privateTime mike 20230526 1800 2.0
+projectMeeting lucy 20230515 2100 2.0 robert james michael mike mary
+groupStudy james 20230515 2000 3.0 paul robert lisa mary lucy
+gathering michael 20230523 1900 1.0 lisa paul mike
+groupStudy lily 20230518 1900 3.0 michael
+privateTime james 20230519 1800 1.0
+projectMeeting michael 20230509 2000 1.0 robert mike james john paul mary lucy
+projectMeeting lily 20230521 2000 2.0 lucy
+privateTime lucy 20230511 2000 2.0
+groupStudy robert 20230513 1900 2.0 lucy james mike paul mary
+projectMeeting michael 20230518 1800 5.0 mary lucy lisa paul james john
+gathering mary 20230510 2000 1.0 lucy mike lily
+privateTime lily 20230526 2100 2.0
+projectMeeting lucy 20230521 1800 4.0 lily mary
+privateTime lily 20230523 2000 3.0
+privateTime robert 20230520 1900 3.0
+privateTime paul 20230510 1900 1.0
+gathering lucy 20230524 2100 1.0 james mary lisa john mike michael lily
+gathering lily 20230508 2000 1.0 lisa james mike robert
+gathering john 20230525 1900 4.0 lily mike lucy mary lisa james michael
+privateTime james 20230519 2100 1.0
+groupStudy paul 20230529 1800 2.0 michael john mary james lucy lisa robert lily
+privateTime james 20230516 1800 5.0
+gathering lucy 20230508 1900 2.0 lisa lily john mike
+privateTime mike 20230516 2000 2.0
+privateTime lisa 20230514 1800 5.0
+privateTime lucy 20230520 1900 3.0
+gathering mike 20230528 1900 3.0 robert paul mary lucy lisa
+gathering lisa 20230503 1900 4.0 lily john james lucy paul mike mary
+projectMeeting mike 20230530 1900 1.0 paul james lucy
+groupStudy mike 20230507 1800 5.0 paul michael robert john lisa lucy james
+projectMeeting lisa 20230526 2000 1.0 robert michael james lily paul mike
+groupStudy lisa 20230515 2100 1.0 john lily robert paul michael
+gathering michael 20230523 1800 5.0 paul john robert mike mary lily james lisa
+privateTime paul 20230518 2000 1.0
+privateTime lisa 20230529 1800 1.0
+privateTime paul 20230503 2100 2.0
+groupStudy michael 20230508 2100 1.0 james
+privateTime robert 20230502 1800 1.0
+groupStudy michael 20230502 1800 4.0 mike john
+gathering michael 20230514 2100 1.0 lily mike john paul robert james lisa mary lucy
+privateTime mike 20230510 1900 4.0
+gathering lucy 20230514 1900 3.0 mike robert lisa lily paul
+gathering lucy 20230508 2100 2.0 john james robert lily mary paul lisa mike michael
+gathering paul 20230514 2100 2.0 lily john
+privateTime lily 20230514 1900 4.0
+projectMeeting james 20230508 1900 4.0 robert mary
+groupStudy michael 20230511 1900 3.0 mike paul robert mary lucy lily lisa
+privateTime paul 20230510 2000 3.0
+groupStudy mike 20230526 2000 3.0 lucy michael mary james lily
+projectMeeting lucy 20230521 1900 1.0 lisa james robert mike mary john lily michael
+gathering lucy 20230504 1900 1.0 robert lily james paul mary lisa john mike
+groupStudy robert 20230510 2000 3.0 lucy john james michael lisa paul lily mary
+groupStudy michael 20230523 2000 3.0 lily paul lucy mary lisa john mike robert james
+gathering lily 20230503 1800 3.0 paul john james
+groupStudy mary 20230527 2000 1.0 lisa john
+privateTime lisa 20230504 1900 2.0
+gathering lily 20230510 1800 4.0 lisa michael paul john robert james mike
+privateTime john 20230520 1800 3.0
+privateTime john 20230520 2000 3.0
+groupStudy robert 20230507 1900 3.0 lisa mike james mary lily lucy john michael paul
+groupStudy james 20230506 2100 2.0 paul michael lucy lisa lily
+groupStudy michael 20230524 2000 1.0 paul lucy james mary mike lily john lisa robert
+projectMeeting michael 20230511 2000 3.0 paul lily james
+gathering michael 20230515 1800 2.0 lisa robert mike mary paul
+groupStudy michael 20230513 1800 3.0 paul james lily lucy john lisa mary mike robert
+gathering paul 20230512 2100 1.0 lisa mike michael mary
+projectMeeting paul 20230520 2000 1.0 michael mary john mike
+groupStudy paul 20230506 1800 3.0 lucy lily michael robert mike
+gathering mike 20230522 2100 1.0 james paul lily mary robert lisa michael
+privateTime michael 20230504 2000 3.0
+groupStudy mary 20230523 2100 1.0 john james robert lucy mike paul michael
+privateTime mary 20230513 2000 2.0
+projectMeeting john 20230514 1900 2.0 lucy
+projectMeeting lily 20230518 2000 1.0 lisa paul lucy
+privateTime john 20230503 2100 1.0
+groupStudy james 20230518 2000 3.0 john michael lily mary paul lucy lisa robert
+gathering john 20230522 2100 2.0 michael mary
+groupStudy john 20230523 2100 1.0 mike robert lily paul mary lucy lisa james
+privateTime james 20230527 1900 3.0
+privateTime michael 20230508 1800 4.0
+groupStudy james 20230503 2000 1.0 lily mike robert
+projectMeeting john 20230504 2100 2.0 james paul
+groupStudy john 20230520 1800 3.0 mike lucy robert lisa mary paul michael james
+groupStudy robert 20230523 1900 4.0 lucy james mary paul john lily michael lisa mike
+privateTime lily 20230516 2100 2.0
+privateTime mary 20230508 1800 4.0
+gathering lily 20230503 2000 1.0 robert mike lucy mary
+privateTime robert 20230501 1800 4.0
+gathering john 20230524 2100 1.0 lily robert lisa lucy james michael
+projectMeeting michael 20230531 2100 1.0 lily paul robert james mike lucy lisa john mary
+gathering lucy 20230526 2000 3.0 michael mike lisa robert lily james
+privateTime michael 20230520 2000 1.0
+privateTime james 20230523 1900 1.0
+groupStudy mary 20230502 2100 1.0 michael mike paul john lisa robert lily
+projectMeeting mike 20230502 2100 2.0 lucy john james lisa robert mary
+gathering mary 20230508 1800 4.0 lucy lisa paul michael james
+privateTime michael 20230522 1800 5.0
+projectMeeting michael 20230524 2000 2.0 mike james
+gathering john 20230506 1800 5.0 mike lisa mary paul lily james lucy robert michael
+projectMeeting john 20230509 2000 1.0 michael james robert paul lucy
+privateTime john 20230517 2000 3.0
+projectMeeting mike 20230508 2100 2.0 paul james
+projectMeeting paul 20230514 2100 2.0 lily michael lucy james robert mary
+privateTime lisa 20230530 1900 4.0
+privateTime lily 20230523 2100 2.0
+groupStudy john 20230527 2100 1.0 lucy lily paul mike michael
+groupStudy lucy 20230522 1900 1.0 michael james robert john paul
+gathering paul 20230528 1800 3.0 mary mike james michael john robert
+groupStudy lisa 20230529 1900 4.0 michael john paul
+gathering mike 20230512 1900 4.0 michael lisa james mary
+groupStudy michael 20230505 2100 1.0 paul robert lucy lily mary mike james john
+gathering paul 20230512 1800 2.0 lisa john james lily mary lucy
+groupStudy lucy 20230529 1800 3.0 paul
+gathering lucy 20230527 2000 2.0 john robert michael mary lisa mike paul
+gathering john 20230529 2100 2.0 mary paul
+groupStudy mary 20230503 1800 1.0 james lily paul lisa
+projectMeeting mike 20230513 1900 2.0 mary lucy michael paul lisa john james lily
+projectMeeting john 20230528 1900 2.0 lucy james
+groupStudy paul 20230505 1900 4.0 michael robert lily john mary mike james lisa lucy
+groupStudy mike 20230510 1900 1.0 lisa john mary
+groupStudy john 20230503 2100 2.0 robert james mary paul michael lucy lisa
+gathering mary 20230525 2000 1.0 lily mike john michael lisa robert lucy
+projectMeeting mike 20230518 2100 1.0 john mary robert james michael paul
+projectMeeting lucy 20230501 2100 1.0 mary lily mike robert john lisa james michael paul
+projectMeeting robert 20230521 2000 3.0 lily lisa paul john
+privateTime lucy 20230519 1800 3.0
+projectMeeting robert 20230530 2000 3.0 lucy lisa john lily mike mary paul
+projectMeeting mary 20230529 1900 3.0 robert mike lucy
+privateTime lisa 20230522 2100 1.0
+groupStudy mike 20230519 2000 1.0 paul mary lily john robert
+groupStudy john 20230526 2100 2.0 paul
+privateTime paul 20230528 2100 2.0
+projectMeeting lucy 20230524 2000 1.0 james michael paul john mike lisa
+privateTime lily 20230504 2000 2.0
+privateTime robert 20230508 1800 2.0
+privateTime james 20230503 1800 3.0
+gathering paul 20230523 2000 3.0 michael lucy lily lisa robert
+projectMeeting michael 20230507 1900 1.0 john mary james lily mike lucy robert lisa
+groupStudy james 20230525 2100 2.0 mary john lucy
+groupStudy lucy 20230531 1800 5.0 michael lily lisa paul james mary mike robert john
+privateTime mike 20230530 1800 3.0
+gathering james 20230509 1800 4.0 lucy
+privateTime lisa 20230502 2100 1.0
+gathering michael 20230503 2100 2.0 mike robert james lily paul mary lucy
+projectMeeting michael 20230502 2000 1.0 james mary robert mike
+projectMeeting lucy 20230509 2100 2.0 james lisa robert michael paul mary
+projectMeeting lily 20230511 1800 3.0 mike
+privateTime john 20230510 1900 2.0
+gathering james 20230527 2000 3.0 robert mary john lily michael lisa mike
+projectMeeting paul 20230512 1900 1.0 john
+projectMeeting mary 20230516 1900 4.0 mike
+privateTime lisa 20230513 1900 1.0
+gathering robert 20230515 1800 2.0 lucy james paul lily michael john mike
+projectMeeting lucy 20230522 2000 3.0 mary lisa michael paul lily robert john james mike
+privateTime lucy 20230505 1900 2.0
+groupStudy mike 20230516 2100 2.0 lily lisa james paul robert michael mary lucy john
+projectMeeting lily 20230507 2100 2.0 james lisa john robert mary paul mike
+groupStudy mike 20230523 2000 3.0 michael lucy
+groupStudy mike 20230502 1800 4.0 michael lily paul
+privateTime john 20230522 1800 4.0
+projectMeeting john 20230526 2100 1.0 lily
+privateTime robert 20230504 2000 3.0
+privateTime paul 20230517 2000 2.0
+projectMeeting lisa 20230517 2000 1.0 michael paul lucy james mike john
+privateTime mike 20230523 1800 3.0
+privateTime paul 20230530 2000 2.0
+groupStudy mike 20230522 1800 3.0 john robert mary lily lisa paul james lucy
+groupStudy robert 20230531 1900 3.0 john lily paul lisa mary
+privateTime paul 20230506 2000 1.0
+projectMeeting lisa 20230507 1800 3.0 robert lily michael james lucy mary paul mike john
+groupStudy mary 20230504 1900 1.0 lily
+privateTime michael 20230507 1900 4.0
+projectMeeting john 20230518 1800 4.0 robert james mike michael lisa lucy paul lily
+privateTime michael 20230505 2000 1.0
+gathering paul 20230520 2000 2.0 john robert lucy michael
+gathering james 20230522 2100 2.0 paul robert mike lucy john lisa lily
+privateTime mike 20230527 2000 2.0
+privateTime lisa 20230515 2000 1.0
+gathering lily 20230526 2100 2.0 lisa robert
+privateTime lisa 20230529 1800 5.0
+privateTime michael 20230517 2000 1.0
+projectMeeting james 20230531 1900 4.0 lily robert
+gathering mike 20230513 1800 2.0 lucy james john paul lisa lily robert mary
+gathering john 20230515 1800 2.0 mike lily paul james lisa michael mary lucy
+projectMeeting michael 20230502 2000 2.0 lily
+groupStudy lucy 20230521 2100 1.0 michael paul robert lily john lisa
+groupStudy lisa 20230518 1800 5.0 lily
+gathering robert 20230515 1900 4.0 john paul mary lisa lily lucy mike
+projectMeeting mary 20230513 1800 4.0 lucy james
+groupStudy michael 20230505 1800 5.0 mary paul
+privateTime robert 20230525 1800 2.0
+projectMeeting paul 20230515 1900 2.0 john
+groupStudy lily 20230527 1800 3.0 paul robert
+privateTime lucy 20230513 2000 2.0
+privateTime mike 20230507 2000 2.0
+groupStudy james 20230528 1900 3.0 robert mike mary lucy lisa lily
+privateTime john 20230527 1900 4.0
+privateTime mike 20230531 2100 1.0
+privateTime robert 20230506 2100 2.0
+privateTime robert 20230513 2100 2.0
+groupStudy james 20230502 1900 1.0 robert mary michael lily paul mike lisa lucy john
+privateTime robert 20230524 2000 1.0
+projectMeeting robert 20230510 1800 4.0 lily lucy lisa mary mike
+privateTime michael 20230510 2000 2.0
+gathering mike 20230507 1800 2.0 lisa john
+gathering lily 20230513 1900 1.0 lisa mary robert john
+projectMeeting james 20230521 2000 2.0 michael mary paul robert lily john
+projectMeeting mary 20230519 1900 4.0 lisa mike lily lucy
+groupStudy lily 20230503 2000 3.0 john mary paul michael james robert
+gathering lily 20230513 2100 2.0 john james mike robert mary lisa lucy
+projectMeeting lucy 20230510 1800 1.0 robert michael
+groupStudy mary 20230506 1900 3.0 lily james
+gathering john 20230506 1800 4.0 lily mary paul lucy
+projectMeeting robert 20230512 2100 1.0 john
+groupStudy lucy 20230529 1800 1.0 john lisa
+projectMeeting paul 20230526 2000 3.0 james robert mike michael mary john lily lucy
+groupStudy mary 20230508 1800 4.0 paul lisa
+groupStudy lucy 20230508 1800 1.0 michael mary lily lisa john robert paul james
+privateTime james 20230503 1800 1.0
+groupStudy john 20230502 2000 1.0 michael lily lisa mary paul lucy mike james
+gathering james 20230509 1800 3.0 michael robert lucy
+groupStudy michael 20230521 2100 1.0 robert paul lucy mary john lisa james mike lily
+groupStudy lily 20230524 1800 2.0 james michael mary john paul mike
+gathering john 20230518 2000 3.0 mike robert james
+groupStudy robert 20230518 2000 2.0 mike lily lucy mary james michael paul john lisa
+privateTime james 20230522 2100 2.0
+groupStudy lisa 20230518 2000 1.0 mike lily robert
+projectMeeting john 20230504 2100 2.0 lucy mary lisa paul michael
+gathering paul 20230510 1800 5.0 michael mary lucy lily james robert john mike
+gathering paul 20230520 1900 2.0 mary robert
+gathering mary 20230513 1900 2.0 robert john michael lucy lisa
+gathering michael 20230526 2000 1.0 robert lily mary mike lucy paul james john
+projectMeeting mike 20230531 1800 3.0 lisa michael paul james mary robert lily john
+privateTime mike 20230522 1900 2.0
+projectMeeting paul 20230512 1900 4.0 john mike james mary lisa
+gathering john 20230511 1800 1.0 paul lucy lisa mary james michael mike lily robert
+projectMeeting mary 20230507 2000 3.0 john robert lily
+gathering john 20230504 2000 2.0 mary james robert mike lucy
+gathering john 20230519 2000 3.0 lucy robert lily paul michael lisa mary mike james
+groupStudy john 20230528 2100 1.0 mike
+privateTime paul 20230510 1800 4.0
+projectMeeting lisa 20230529 2100 2.0 james michael mary mike robert
+gathering mary 20230512 1800 3.0 robert lisa james john michael paul lily mike
+privateTime robert 20230512 1800 2.0
+groupStudy robert 20230503 2000 1.0 lisa paul michael lucy james mike john
+groupStudy mike 20230519 2000 3.0 robert lucy lily mary
+groupStudy john 20230509 2100 1.0 lily robert paul michael james lisa
+groupStudy lisa 20230524 2000 1.0 mike james paul lily john
+groupStudy lisa 20230514 1800 5.0 john lucy
+gathering michael 20230522 2000 3.0 james robert lisa
+gathering lily 20230531 1900 3.0 lisa robert john
+privateTime mary 20230504 2000 2.0
+projectMeeting lucy 20230505 2000 1.0 mary lily michael james lisa mike john paul
+privateTime robert 20230511 1900 2.0
+groupStudy john 20230517 2000 2.0 michael robert lisa lucy lily mike james paul
+privateTime lisa 20230517 2000 3.0
+groupStudy lucy 20230521 2000 3.0 mike michael robert lisa james john mary
+gathering mike 20230527 2000 1.0 paul michael
+gathering mike 20230505 1900 2.0 john
+projectMeeting michael 20230525 2000 2.0 mary lily lucy
+projectMeeting robert 20230528 2100 1.0 michael mike lisa lily
+groupStudy lucy 20230515 2100 1.0 lisa mary paul lily john
+groupStudy lisa 20230524 1800 2.0 john robert lily james
+gathering lisa 20230526 1800 3.0 lily
+privateTime lily 20230511 1900 3.0
+projectMeeting robert 20230523 1900 1.0 paul lisa john mike james mary michael lucy lily
+gathering lisa 20230503 1800 2.0 lucy
+privateTime james 20230527 1900 3.0
+privateTime robert 20230506 1800 5.0
+groupStudy mike 20230521 2100 2.0 lisa lily michael robert john paul mary
+gathering paul 20230511 1900 2.0 mike robert
+gathering robert 20230508 2000 1.0 michael
+projectMeeting lisa 20230503 1900 2.0 mike lucy paul robert
+groupStudy robert 20230517 1900 4.0 lisa mary michael john lucy paul james mike lily
+projectMeeting mike 20230531 2100 1.0 michael lucy lily mary
+groupStudy lucy 20230520 2100 1.0 michael paul lily james lisa
+privateTime mike 20230515 1900 1.0
+gathering james 20230524 1800 3.0 mary robert paul lily lucy john lisa mike
+privateTime michael 20230514 1900 2.0
+gathering james 20230523 1800 2.0 lisa lucy mary paul mike john michael
+projectMeeting lisa 20230508 2100 2.0 james lucy michael paul john mike mary lily robert
+gathering mike 20230514 2100 2.0 robert james michael lily lucy mary lisa john
+groupStudy paul 20230518 1900 4.0 lily james mary lucy john lisa
+projectMeeting lucy 20230519 1800 1.0 paul lily
+privateTime michael 20230507 2000 2.0
+groupStudy john 20230508 2000 3.0 lucy mary robert mike james paul michael
+projectMeeting lucy 20230509 1800 3.0 lisa lily
+privateTime mike 20230501 2000 3.0
+gathering mary 20230531 2000 1.0 james lisa lily
+privateTime lily 20230529 2000 3.0
+projectMeeting john 20230519 2000 3.0 james lisa lucy mary mike robert lily michael
+privateTime lily 20230512 2000 3.0
+projectMeeting lucy 20230507 2100 2.0 james
+gathering james 20230514 1900 3.0 mike paul mary lucy michael
+groupStudy lily 20230517 1800 4.0 mike paul michael mary
+projectMeeting mike 20230502 2100 1.0 james john michael lily lucy lisa
+projectMeeting michael 20230515 1900 2.0 lily john paul mike mary lucy james lisa
+groupStudy mike 20230528 2100 2.0 michael mary james lisa
+groupStudy lily 20230506 1800 4.0 mary lucy
+groupStudy paul 20230518 2100 1.0 john lily mike lisa michael
+gathering lisa 20230512 2100 1.0 mike lily robert john lucy
+privateTime paul 20230530 1800 1.0
+projectMeeting lisa 20230521 2000 2.0 robert mike lucy paul michael lily mary
+gathering michael 20230521 1800 5.0 paul james
+groupStudy michael 20230524 2100 1.0 mike robert lisa paul john james mary lucy
+privateTime lisa 20230504 2100 2.0
+gathering michael 20230502 2100 2.0 mary lisa robert mike
+gathering lily 20230507 2000 2.0 james
+projectMeeting lisa 20230516 2100 1.0 robert
+groupStudy john 20230508 1800 2.0 mike james mary michael paul robert lily
+projectMeeting mike 20230512 2000 1.0 lucy lily john michael mary robert paul
+groupStudy lisa 20230504 1800 5.0 james
+projectMeeting lisa 20230508 1900 3.0 michael paul mike lucy john robert
+privateTime mike 20230501 2000 3.0
+groupStudy john 20230507 1900 4.0 mary michael
+privateTime robert 20230508 2000 1.0
+privateTime robert 20230517 2000 3.0
+groupStudy lisa 20230531 1800 5.0 robert lucy mary james paul michael mike
+groupStudy robert 20230520 2000 1.0 james lucy mike
+gathering john 20230515 1900 2.0 lily
+groupStudy lucy 20230516 2000 3.0 mike james
+projectMeeting robert 20230511 2000 3.0 lily
+projectMeeting james 20230516 1900 3.0 mary john paul mike lisa
+groupStudy lisa 20230516 2000 1.0 mary
+privateTime james 20230505 1900 2.0
+privateTime mike 20230514 2100 1.0
+privateTime paul 20230514 1800 5.0

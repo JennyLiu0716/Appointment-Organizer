@@ -1,0 +1,465 @@
+Period: 2023-05-01 to 2023-05-30
+Algorithm used: FCFS
+
+***Appointment Schedule***
+
+. John, you have 39 appointments.
+Date          Start    End      Type               People
+====================================================================================
+2023-05-02    19:00    20:00    projectMeeting     Mary Lucy Paul Lisa James Robert Mike Michael Lily 
+2023-05-02    20:00    21:00    gathering          Mary Lucy Paul Lisa James Robert Mike Lily 
+2023-05-02    21:00    22:00    groupStudy         Lucy Paul Lisa James Robert Mike Michael Lily 
+2023-05-02    22:00    23:00    groupStudy         Lucy Paul 
+2023-05-03    18:00    22:00    privateTime        
+2023-05-03    22:00    23:00    gathering          Mary Lisa James Mike 
+2023-05-04    18:00    20:00    projectMeeting     Lisa Mike Michael Lily 
+2023-05-04    20:00    23:00    groupStudy         Lucy 
+2023-05-05    18:00    20:00    privateTime        
+2023-05-05    20:00    22:00    gathering          Mary Lucy Lisa James Robert Mike Michael 
+2023-05-05    22:00    23:00    groupStudy         Mary Lucy Lisa James Mike Lily 
+2023-05-06    18:00    20:00    projectMeeting     Mary Paul Lisa James Mike Michael Lily 
+2023-05-06    21:00    23:00    projectMeeting     Lucy Paul Lisa James Robert Mike Michael Lily 
+2023-05-08    18:00    19:00    projectMeeting     Mary Lucy Lisa James Robert Michael Lily 
+2023-05-08    19:00    21:00    gathering          Mary Lucy Paul Lisa James Robert Mike Michael Lily 
+2023-05-08    21:00    22:00    gathering          Lucy Paul Lisa Robert Lily 
+2023-05-08    22:00    23:00    gathering          Mary Lucy Paul Lisa Robert Mike Michael Lily 
+2023-05-09    18:00    20:00    projectMeeting     Paul Lisa James Michael 
+2023-05-09    20:00    22:00    gathering          Robert Mike Michael 
+2023-05-09    22:00    23:00    groupStudy         Mary Lucy Paul Lisa James Robert Mike Michael Lily 
+2023-05-10    18:00    21:00    projectMeeting     Paul James Mike Lily 
+2023-05-11    18:00    21:00    gathering          Mary Lisa 
+2023-05-11    22:00    23:00    groupStudy         Mary Lucy Paul Lisa James Robert Mike Michael Lily 
+2023-05-12    18:00    19:00    groupStudy         Mary Lucy Paul Lisa James Mike Michael Lily 
+2023-05-12    21:00    23:00    gathering          Mary Paul Lisa James Robert Mike Michael Lily 
+2023-05-13    19:00    20:00    gathering          Mary Lucy Lisa Robert Mike Michael Lily 
+2023-05-13    22:00    23:00    groupStudy         Lucy Paul Lisa James Robert Mike Michael Lily 
+2023-05-16    18:00    21:00    gathering          Paul Mike Lily 
+2023-05-16    21:00    23:00    groupStudy         Mary Lucy Paul Lisa James Robert Mike Michael Lily 
+2023-05-17    18:00    22:00    gathering          Mary Lucy Mike Lily 
+2023-05-17    22:00    23:00    gathering          Mary Lucy Paul Lisa Mike Michael Lily 
+2023-05-18    19:00    23:00    gathering          Mary 
+2023-05-19    18:00    21:00    groupStudy         Lisa Robert Mike 
+2023-05-20    18:00    19:00    groupStudy         Mary Paul Lisa Robert 
+2023-05-22    18:00    19:00    gathering          Mary Lucy Paul Lisa James Robert Mike Michael Lily 
+2023-05-25    20:00    21:00    gathering          Mary Lucy Paul James Mike Michael Lily 
+2023-05-29    18:00    23:00    gathering          Mary Lucy James Mike 
+2023-05-30    18:00    22:00    projectMeeting     Lucy Lisa Mike Michael 
+2023-05-31    21:00    23:00    projectMeeting     Lucy Michael Lily 
+                            - End of John's Schedule -
+. Mary, you have 40 appointments.
+Date          Start    End      Type               People
+====================================================================================
+2023-05-02    18:00    19:00    gathering          Lucy Paul Lisa Robert Lily 
+2023-05-02    19:00    20:00    projectMeeting     John Lucy Paul Lisa James Robert Mike Michael Lily 
+2023-05-02    20:00    21:00    gathering          John Lucy Paul Lisa James Robert Mike Lily 
+2023-05-02    22:00    23:00    projectMeeting     Lisa James Robert Mike Michael Lily 
+2023-05-03    18:00    20:00    groupStudy         Lucy Paul Lisa James Robert Michael Lily 
+2023-05-03    21:00    22:00    gathering          Lucy Paul James Robert Mike Michael Lily 
+2023-05-03    22:00    23:00    gathering          John Lisa James Mike 
+2023-05-04    21:00    23:00    projectMeeting     Mike Lily 
+2023-05-05    20:00    22:00    gathering          John Lucy Lisa James Robert Mike Michael 
+2023-05-05    22:00    23:00    groupStudy         John Lucy Lisa James Mike Lily 
+2023-05-06    18:00    20:00    projectMeeting     John Paul Lisa James Mike Michael Lily 
+2023-05-08    18:00    19:00    projectMeeting     John Lucy Lisa James Robert Michael Lily 
+2023-05-08    19:00    21:00    gathering          John Lucy Paul Lisa James Robert Mike Michael Lily 
+2023-05-08    22:00    23:00    gathering          John Lucy Paul Lisa Robert Mike Michael Lily 
+2023-05-09    19:00    22:00    privateTime        
+2023-05-09    22:00    23:00    groupStudy         John Lucy Paul Lisa James Robert Mike Michael Lily 
+2023-05-10    21:00    23:00    groupStudy         Lucy Paul James Michael 
+2023-05-11    18:00    21:00    gathering          John Lisa 
+2023-05-11    22:00    23:00    groupStudy         John Lucy Paul Lisa James Robert Mike Michael Lily 
+2023-05-12    18:00    19:00    groupStudy         John Lucy Paul Lisa James Mike Michael Lily 
+2023-05-12    19:00    21:00    projectMeeting     Lucy Paul Lisa James Robert Mike Lily 
+2023-05-12    21:00    23:00    gathering          John Paul Lisa James Robert Mike Michael Lily 
+2023-05-13    18:00    19:00    groupStudy         Lucy Lisa James Robert Mike Michael 
+2023-05-13    19:00    20:00    gathering          John Lucy Lisa Robert Mike Michael Lily 
+2023-05-15    18:00    20:00    gathering          Paul Lily 
+2023-05-16    21:00    23:00    groupStudy         John Lucy Paul Lisa James Robert Mike Michael Lily 
+2023-05-17    18:00    22:00    gathering          John Lucy Mike Lily 
+2023-05-17    22:00    23:00    gathering          John Lucy Paul Lisa Mike Michael Lily 
+2023-05-18    19:00    23:00    gathering          John 
+2023-05-19    18:00    21:00    groupStudy         Paul Michael Lily 
+2023-05-19    21:00    23:00    gathering          Lucy Paul Lisa James Robert Mike Lily 
+2023-05-20    18:00    19:00    groupStudy         John Paul Lisa Robert 
+2023-05-20    19:00    22:00    gathering          Lucy Lisa James Robert Michael 
+2023-05-22    18:00    19:00    gathering          John Lucy Paul Lisa James Robert Mike Michael Lily 
+2023-05-23    18:00    22:00    projectMeeting     Michael Lily 
+2023-05-24    18:00    19:00    projectMeeting     Paul Lisa Mike Michael Lily 
+2023-05-24    19:00    22:00    groupStudy         Lucy Paul Mike 
+2023-05-25    20:00    21:00    gathering          John Lucy Paul James Mike Michael Lily 
+2023-05-27    21:00    23:00    gathering          Lucy Paul Lisa James Robert Michael Lily 
+2023-05-29    18:00    23:00    gathering          John Lucy James Mike 
+                            - End of Mary's Schedule -
+. Lucy, you have 47 appointments.
+Date          Start    End      Type               People
+====================================================================================
+2023-05-02    18:00    19:00    gathering          Mary Paul Lisa Robert Lily 
+2023-05-02    19:00    20:00    projectMeeting     John Mary Paul Lisa James Robert Mike Michael Lily 
+2023-05-02    20:00    21:00    gathering          John Mary Paul Lisa James Robert Mike Lily 
+2023-05-02    21:00    22:00    groupStudy         John Paul Lisa James Robert Mike Michael Lily 
+2023-05-02    22:00    23:00    groupStudy         John Paul 
+2023-05-03    18:00    20:00    groupStudy         Mary Paul Lisa James Robert Michael Lily 
+2023-05-03    20:00    21:00    privateTime        
+2023-05-03    21:00    22:00    gathering          Mary Paul James Robert Mike Michael Lily 
+2023-05-04    18:00    20:00    privateTime        
+2023-05-04    20:00    23:00    groupStudy         John 
+2023-05-05    18:00    20:00    projectMeeting     Paul Lisa James Robert Mike Michael Lily 
+2023-05-05    20:00    22:00    gathering          John Mary Lisa James Robert Mike Michael 
+2023-05-05    22:00    23:00    groupStudy         John Mary Lisa James Mike Lily 
+2023-05-06    21:00    23:00    projectMeeting     John Paul Lisa James Robert Mike Michael Lily 
+2023-05-08    18:00    19:00    projectMeeting     John Mary Lisa James Robert Michael Lily 
+2023-05-08    19:00    21:00    gathering          John Mary Paul Lisa James Robert Mike Michael Lily 
+2023-05-08    21:00    22:00    gathering          John Paul Lisa Robert Lily 
+2023-05-08    22:00    23:00    gathering          John Mary Paul Lisa Robert Mike Michael Lily 
+2023-05-09    20:00    21:00    groupStudy         Paul 
+2023-05-09    22:00    23:00    groupStudy         John Mary Paul Lisa James Robert Mike Michael Lily 
+2023-05-10    21:00    23:00    groupStudy         Mary Paul James Michael 
+2023-05-11    18:00    21:00    privateTime        
+2023-05-11    21:00    22:00    groupStudy         Lily 
+2023-05-11    22:00    23:00    groupStudy         John Mary Paul Lisa James Robert Mike Michael Lily 
+2023-05-12    18:00    19:00    groupStudy         John Mary Paul Lisa James Mike Michael Lily 
+2023-05-12    19:00    21:00    projectMeeting     Mary Paul Lisa James Robert Mike Lily 
+2023-05-13    18:00    19:00    groupStudy         Mary Lisa James Robert Mike Michael 
+2023-05-13    19:00    20:00    gathering          John Mary Lisa Robert Mike Michael Lily 
+2023-05-13    20:00    22:00    groupStudy         James Robert Mike Michael Lily 
+2023-05-13    22:00    23:00    groupStudy         John Paul Lisa James Robert Mike Michael Lily 
+2023-05-15    18:00    21:00    groupStudy         James Mike Michael 
+2023-05-16    21:00    23:00    groupStudy         John Mary Paul Lisa James Robert Mike Michael Lily 
+2023-05-17    18:00    22:00    gathering          John Mary Mike Lily 
+2023-05-17    22:00    23:00    gathering          John Mary Paul Lisa Mike Michael Lily 
+2023-05-18    18:00    21:00    gathering          Paul Lisa James Robert Mike Michael Lily 
+2023-05-18    21:00    23:00    groupStudy         Paul Lisa 
+2023-05-19    21:00    23:00    gathering          Mary Paul Lisa James Robert Mike Lily 
+2023-05-20    19:00    22:00    gathering          Mary Lisa James Robert Michael 
+2023-05-22    18:00    19:00    gathering          John Mary Paul Lisa James Robert Mike Michael Lily 
+2023-05-22    21:00    23:00    privateTime        
+2023-05-23    18:00    22:00    gathering          James 
+2023-05-24    19:00    22:00    groupStudy         Mary Paul Mike 
+2023-05-25    20:00    21:00    gathering          John Mary Paul James Mike Michael Lily 
+2023-05-27    21:00    23:00    gathering          Mary Paul Lisa James Robert Michael Lily 
+2023-05-29    18:00    23:00    gathering          John Mary James Mike 
+2023-05-30    18:00    22:00    projectMeeting     John Lisa Mike Michael 
+2023-05-31    21:00    23:00    projectMeeting     John Michael Lily 
+                            - End of Lucy's Schedule -
+. Paul, you have 44 appointments.
+Date          Start    End      Type               People
+====================================================================================
+2023-05-02    18:00    19:00    gathering          Mary Lucy Lisa Robert Lily 
+2023-05-02    19:00    20:00    projectMeeting     John Mary Lucy Lisa James Robert Mike Michael Lily 
+2023-05-02    20:00    21:00    gathering          John Mary Lucy Lisa James Robert Mike Lily 
+2023-05-02    21:00    22:00    groupStudy         John Lucy Lisa James Robert Mike Michael Lily 
+2023-05-02    22:00    23:00    groupStudy         John Lucy 
+2023-05-03    18:00    20:00    groupStudy         Mary Lucy Lisa James Robert Michael Lily 
+2023-05-03    20:00    21:00    gathering          Robert 
+2023-05-03    21:00    22:00    gathering          Mary Lucy James Robert Mike Michael Lily 
+2023-05-03    22:00    23:00    projectMeeting     Robert 
+2023-05-04    18:00    22:00    privateTime        
+2023-05-05    18:00    20:00    projectMeeting     Lucy Lisa James Robert Mike Michael Lily 
+2023-05-05    20:00    23:00    privateTime        
+2023-05-06    18:00    20:00    projectMeeting     John Mary Lisa James Mike Michael Lily 
+2023-05-06    20:00    21:00    projectMeeting     Mike Lily 
+2023-05-06    21:00    23:00    projectMeeting     John Lucy Lisa James Robert Mike Michael Lily 
+2023-05-08    19:00    21:00    gathering          John Mary Lucy Lisa James Robert Mike Michael Lily 
+2023-05-08    21:00    22:00    gathering          John Lucy Lisa Robert Lily 
+2023-05-08    22:00    23:00    gathering          John Mary Lucy Lisa Robert Mike Michael Lily 
+2023-05-09    18:00    20:00    projectMeeting     John Lisa James Michael 
+2023-05-09    20:00    21:00    groupStudy         Lucy 
+2023-05-09    22:00    23:00    groupStudy         John Mary Lucy Lisa James Robert Mike Michael Lily 
+2023-05-10    18:00    21:00    projectMeeting     John James Mike Lily 
+2023-05-10    21:00    23:00    groupStudy         Mary Lucy James Michael 
+2023-05-11    22:00    23:00    groupStudy         John Mary Lucy Lisa James Robert Mike Michael Lily 
+2023-05-12    18:00    19:00    groupStudy         John Mary Lucy Lisa James Mike Michael Lily 
+2023-05-12    19:00    21:00    projectMeeting     Mary Lucy Lisa James Robert Mike Lily 
+2023-05-12    21:00    23:00    gathering          John Mary Lisa James Robert Mike Michael Lily 
+2023-05-13    22:00    23:00    groupStudy         John Lucy Lisa James Robert Mike Michael Lily 
+2023-05-15    18:00    20:00    gathering          Mary Lily 
+2023-05-16    18:00    21:00    gathering          John Mike Lily 
+2023-05-16    21:00    23:00    groupStudy         John Mary Lucy Lisa James Robert Mike Michael Lily 
+2023-05-17    22:00    23:00    gathering          John Mary Lucy Lisa Mike Michael Lily 
+2023-05-18    18:00    21:00    gathering          Lucy Lisa James Robert Mike Michael Lily 
+2023-05-18    21:00    23:00    groupStudy         Lucy Lisa 
+2023-05-19    18:00    21:00    groupStudy         Mary Michael Lily 
+2023-05-19    21:00    23:00    gathering          Mary Lucy Lisa James Robert Mike Lily 
+2023-05-20    18:00    19:00    groupStudy         John Mary Lisa Robert 
+2023-05-22    18:00    19:00    gathering          John Mary Lucy Lisa James Robert Mike Michael Lily 
+2023-05-24    18:00    19:00    projectMeeting     Mary Lisa Mike Michael Lily 
+2023-05-24    19:00    22:00    groupStudy         Mary Lucy Mike 
+2023-05-25    20:00    21:00    gathering          John Mary Lucy James Mike Michael Lily 
+2023-05-27    18:00    21:00    gathering          James Robert Michael 
+2023-05-27    21:00    23:00    gathering          Mary Lucy Lisa James Robert Michael Lily 
+2023-05-30    20:00    23:00    privateTime        
+                            - End of Paul's Schedule -
+. Lisa, you have 42 appointments.
+Date          Start    End      Type               People
+====================================================================================
+2023-05-02    18:00    19:00    gathering          Mary Lucy Paul Robert Lily 
+2023-05-02    19:00    20:00    projectMeeting     John Mary Lucy Paul James Robert Mike Michael Lily 
+2023-05-02    20:00    21:00    gathering          John Mary Lucy Paul James Robert Mike Lily 
+2023-05-02    21:00    22:00    groupStudy         John Lucy Paul James Robert Mike Michael Lily 
+2023-05-02    22:00    23:00    projectMeeting     Mary James Robert Mike Michael Lily 
+2023-05-03    18:00    20:00    groupStudy         Mary Lucy Paul James Robert Michael Lily 
+2023-05-03    22:00    23:00    gathering          John Mary James Mike 
+2023-05-04    18:00    20:00    projectMeeting     John Mike Michael Lily 
+2023-05-04    20:00    23:00    projectMeeting     James 
+2023-05-05    18:00    20:00    projectMeeting     Lucy Paul James Robert Mike Michael Lily 
+2023-05-05    20:00    22:00    gathering          John Mary Lucy James Robert Mike Michael 
+2023-05-05    22:00    23:00    groupStudy         John Mary Lucy James Mike Lily 
+2023-05-06    18:00    20:00    projectMeeting     John Mary Paul James Mike Michael Lily 
+2023-05-06    21:00    23:00    projectMeeting     John Lucy Paul James Robert Mike Michael Lily 
+2023-05-08    18:00    19:00    projectMeeting     John Mary Lucy James Robert Michael Lily 
+2023-05-08    19:00    21:00    gathering          John Mary Lucy Paul James Robert Mike Michael Lily 
+2023-05-08    21:00    22:00    gathering          John Lucy Paul Robert Lily 
+2023-05-08    22:00    23:00    gathering          John Mary Lucy Paul Robert Mike Michael Lily 
+2023-05-09    18:00    20:00    projectMeeting     John Paul James Michael 
+2023-05-09    22:00    23:00    groupStudy         John Mary Lucy Paul James Robert Mike Michael Lily 
+2023-05-11    18:00    21:00    gathering          John Mary 
+2023-05-11    22:00    23:00    groupStudy         John Mary Lucy Paul James Robert Mike Michael Lily 
+2023-05-12    18:00    19:00    groupStudy         John Mary Lucy Paul James Mike Michael Lily 
+2023-05-12    19:00    21:00    projectMeeting     Mary Lucy Paul James Robert Mike Lily 
+2023-05-12    21:00    23:00    gathering          John Mary Paul James Robert Mike Michael Lily 
+2023-05-13    18:00    19:00    groupStudy         Mary Lucy James Robert Mike Michael 
+2023-05-13    19:00    20:00    gathering          John Mary Lucy Robert Mike Michael Lily 
+2023-05-13    22:00    23:00    groupStudy         John Lucy Paul James Robert Mike Michael Lily 
+2023-05-15    19:00    23:00    projectMeeting     Robert 
+2023-05-16    21:00    23:00    groupStudy         John Mary Lucy Paul James Robert Mike Michael Lily 
+2023-05-17    22:00    23:00    gathering          John Mary Lucy Paul Mike Michael Lily 
+2023-05-18    18:00    21:00    gathering          Lucy Paul James Robert Mike Michael Lily 
+2023-05-18    21:00    23:00    groupStudy         Lucy Paul 
+2023-05-19    18:00    21:00    groupStudy         John Robert Mike 
+2023-05-19    21:00    23:00    gathering          Mary Lucy Paul James Robert Mike Lily 
+2023-05-20    18:00    19:00    groupStudy         John Mary Paul Robert 
+2023-05-20    19:00    22:00    gathering          Mary Lucy James Robert Michael 
+2023-05-22    18:00    19:00    gathering          John Mary Lucy Paul James Robert Mike Michael Lily 
+2023-05-24    18:00    19:00    projectMeeting     Mary Paul Mike Michael Lily 
+2023-05-27    20:00    21:00    privateTime        
+2023-05-27    21:00    23:00    gathering          Mary Lucy Paul James Robert Michael Lily 
+2023-05-30    18:00    22:00    projectMeeting     John Lucy Mike Michael 
+                            - End of Lisa's Schedule -
+. James, you have 39 appointments.
+Date          Start    End      Type               People
+====================================================================================
+2023-05-02    19:00    20:00    projectMeeting     John Mary Lucy Paul Lisa Robert Mike Michael Lily 
+2023-05-02    20:00    21:00    gathering          John Mary Lucy Paul Lisa Robert Mike Lily 
+2023-05-02    21:00    22:00    groupStudy         John Lucy Paul Lisa Robert Mike Michael Lily 
+2023-05-02    22:00    23:00    projectMeeting     Mary Lisa Robert Mike Michael Lily 
+2023-05-03    18:00    20:00    groupStudy         Mary Lucy Paul Lisa Robert Michael Lily 
+2023-05-03    21:00    22:00    gathering          Mary Lucy Paul Robert Mike Michael Lily 
+2023-05-03    22:00    23:00    gathering          John Mary Lisa Mike 
+2023-05-04    20:00    23:00    projectMeeting     Lisa 
+2023-05-05    18:00    20:00    projectMeeting     Lucy Paul Lisa Robert Mike Michael Lily 
+2023-05-05    20:00    22:00    gathering          John Mary Lucy Lisa Robert Mike Michael 
+2023-05-05    22:00    23:00    groupStudy         John Mary Lucy Lisa Mike Lily 
+2023-05-06    18:00    20:00    projectMeeting     John Mary Paul Lisa Mike Michael Lily 
+2023-05-06    20:00    21:00    groupStudy         Robert Michael 
+2023-05-06    21:00    23:00    projectMeeting     John Lucy Paul Lisa Robert Mike Michael Lily 
+2023-05-08    18:00    19:00    projectMeeting     John Mary Lucy Lisa Robert Michael Lily 
+2023-05-08    19:00    21:00    gathering          John Mary Lucy Paul Lisa Robert Mike Michael Lily 
+2023-05-09    18:00    20:00    projectMeeting     John Paul Lisa Michael 
+2023-05-09    22:00    23:00    groupStudy         John Mary Lucy Paul Lisa Robert Mike Michael Lily 
+2023-05-10    18:00    21:00    projectMeeting     John Paul Mike Lily 
+2023-05-10    21:00    23:00    groupStudy         Mary Lucy Paul Michael 
+2023-05-11    22:00    23:00    groupStudy         John Mary Lucy Paul Lisa Robert Mike Michael Lily 
+2023-05-12    18:00    19:00    groupStudy         John Mary Lucy Paul Lisa Mike Michael Lily 
+2023-05-12    19:00    21:00    projectMeeting     Mary Lucy Paul Lisa Robert Mike Lily 
+2023-05-12    21:00    23:00    gathering          John Mary Paul Lisa Robert Mike Michael Lily 
+2023-05-13    18:00    19:00    groupStudy         Mary Lucy Lisa Robert Mike Michael 
+2023-05-13    20:00    22:00    groupStudy         Lucy Robert Mike Michael Lily 
+2023-05-13    22:00    23:00    groupStudy         John Lucy Paul Lisa Robert Mike Michael Lily 
+2023-05-15    18:00    21:00    groupStudy         Lucy Mike Michael 
+2023-05-16    21:00    23:00    groupStudy         John Mary Lucy Paul Lisa Robert Mike Michael Lily 
+2023-05-17    19:00    20:00    privateTime        
+2023-05-18    18:00    21:00    gathering          Lucy Paul Lisa Robert Mike Michael Lily 
+2023-05-19    21:00    23:00    gathering          Mary Lucy Paul Lisa Robert Mike Lily 
+2023-05-20    19:00    22:00    gathering          Mary Lucy Lisa Robert Michael 
+2023-05-22    18:00    19:00    gathering          John Mary Lucy Paul Lisa Robert Mike Michael Lily 
+2023-05-23    18:00    22:00    gathering          Lucy 
+2023-05-25    20:00    21:00    gathering          John Mary Lucy Paul Mike Michael Lily 
+2023-05-27    18:00    21:00    gathering          Paul Robert Michael 
+2023-05-27    21:00    23:00    gathering          Mary Lucy Paul Lisa Robert Michael Lily 
+2023-05-29    18:00    23:00    gathering          John Mary Lucy Mike 
+                            - End of James's Schedule -
+. Robert, you have 38 appointments.
+Date          Start    End      Type               People
+====================================================================================
+2023-05-02    18:00    19:00    gathering          Mary Lucy Paul Lisa Lily 
+2023-05-02    19:00    20:00    projectMeeting     John Mary Lucy Paul Lisa James Mike Michael Lily 
+2023-05-02    20:00    21:00    gathering          John Mary Lucy Paul Lisa James Mike Lily 
+2023-05-02    21:00    22:00    groupStudy         John Lucy Paul Lisa James Mike Michael Lily 
+2023-05-02    22:00    23:00    projectMeeting     Mary Lisa James Mike Michael Lily 
+2023-05-03    18:00    20:00    groupStudy         Mary Lucy Paul Lisa James Michael Lily 
+2023-05-03    20:00    21:00    gathering          Paul 
+2023-05-03    21:00    22:00    gathering          Mary Lucy Paul James Mike Michael Lily 
+2023-05-03    22:00    23:00    projectMeeting     Paul 
+2023-05-04    18:00    22:00    privateTime        
+2023-05-05    18:00    20:00    projectMeeting     Lucy Paul Lisa James Mike Michael Lily 
+2023-05-05    20:00    22:00    gathering          John Mary Lucy Lisa James Mike Michael 
+2023-05-06    20:00    21:00    groupStudy         James Michael 
+2023-05-06    21:00    23:00    projectMeeting     John Lucy Paul Lisa James Mike Michael Lily 
+2023-05-08    18:00    19:00    projectMeeting     John Mary Lucy Lisa James Michael Lily 
+2023-05-08    19:00    21:00    gathering          John Mary Lucy Paul Lisa James Mike Michael Lily 
+2023-05-08    21:00    22:00    gathering          John Lucy Paul Lisa Lily 
+2023-05-08    22:00    23:00    gathering          John Mary Lucy Paul Lisa Mike Michael Lily 
+2023-05-09    20:00    22:00    gathering          John Mike Michael 
+2023-05-09    22:00    23:00    groupStudy         John Mary Lucy Paul Lisa James Mike Michael Lily 
+2023-05-11    22:00    23:00    groupStudy         John Mary Lucy Paul Lisa James Mike Michael Lily 
+2023-05-12    19:00    21:00    projectMeeting     Mary Lucy Paul Lisa James Mike Lily 
+2023-05-12    21:00    23:00    gathering          John Mary Paul Lisa James Mike Michael Lily 
+2023-05-13    18:00    19:00    groupStudy         Mary Lucy Lisa James Mike Michael 
+2023-05-13    19:00    20:00    gathering          John Mary Lucy Lisa Mike Michael Lily 
+2023-05-13    20:00    22:00    groupStudy         Lucy James Mike Michael Lily 
+2023-05-13    22:00    23:00    groupStudy         John Lucy Paul Lisa James Mike Michael Lily 
+2023-05-15    19:00    23:00    projectMeeting     Lisa 
+2023-05-16    20:00    21:00    privateTime        
+2023-05-16    21:00    23:00    groupStudy         John Mary Lucy Paul Lisa James Mike Michael Lily 
+2023-05-18    18:00    21:00    gathering          Lucy Paul Lisa James Mike Michael Lily 
+2023-05-19    18:00    21:00    groupStudy         John Lisa Mike 
+2023-05-19    21:00    23:00    gathering          Mary Lucy Paul Lisa James Mike Lily 
+2023-05-20    18:00    19:00    groupStudy         John Mary Paul Lisa 
+2023-05-20    19:00    22:00    gathering          Mary Lucy Lisa James Michael 
+2023-05-22    18:00    19:00    gathering          John Mary Lucy Paul Lisa James Mike Michael Lily 
+2023-05-27    18:00    21:00    gathering          Paul James Michael 
+2023-05-27    21:00    23:00    gathering          Mary Lucy Paul Lisa James Michael Lily 
+                            - End of Robert's Schedule -
+. Mike, you have 43 appointments.
+Date          Start    End      Type               People
+====================================================================================
+2023-05-02    19:00    20:00    projectMeeting     John Mary Lucy Paul Lisa James Robert Michael Lily 
+2023-05-02    20:00    21:00    gathering          John Mary Lucy Paul Lisa James Robert Lily 
+2023-05-02    21:00    22:00    groupStudy         John Lucy Paul Lisa James Robert Michael Lily 
+2023-05-02    22:00    23:00    projectMeeting     Mary Lisa James Robert Michael Lily 
+2023-05-03    20:00    21:00    privateTime        
+2023-05-03    21:00    22:00    gathering          Mary Lucy Paul James Robert Michael Lily 
+2023-05-03    22:00    23:00    gathering          John Mary Lisa James 
+2023-05-04    18:00    20:00    projectMeeting     John Lisa Michael Lily 
+2023-05-04    21:00    23:00    projectMeeting     Mary Lily 
+2023-05-05    18:00    20:00    projectMeeting     Lucy Paul Lisa James Robert Michael Lily 
+2023-05-05    20:00    22:00    gathering          John Mary Lucy Lisa James Robert Michael 
+2023-05-05    22:00    23:00    groupStudy         John Mary Lucy Lisa James Lily 
+2023-05-06    18:00    20:00    projectMeeting     John Mary Paul Lisa James Michael Lily 
+2023-05-06    20:00    21:00    projectMeeting     Paul Lily 
+2023-05-06    21:00    23:00    projectMeeting     John Lucy Paul Lisa James Robert Michael Lily 
+2023-05-08    19:00    21:00    gathering          John Mary Lucy Paul Lisa James Robert Michael Lily 
+2023-05-08    22:00    23:00    gathering          John Mary Lucy Paul Lisa Robert Michael Lily 
+2023-05-09    20:00    22:00    gathering          John Robert Michael 
+2023-05-09    22:00    23:00    groupStudy         John Mary Lucy Paul Lisa James Robert Michael Lily 
+2023-05-10    18:00    21:00    projectMeeting     John Paul James Lily 
+2023-05-11    18:00    21:00    projectMeeting     Michael 
+2023-05-11    22:00    23:00    groupStudy         John Mary Lucy Paul Lisa James Robert Michael Lily 
+2023-05-12    18:00    19:00    groupStudy         John Mary Lucy Paul Lisa James Michael Lily 
+2023-05-12    19:00    21:00    projectMeeting     Mary Lucy Paul Lisa James Robert Lily 
+2023-05-12    21:00    23:00    gathering          John Mary Paul Lisa James Robert Michael Lily 
+2023-05-13    18:00    19:00    groupStudy         Mary Lucy Lisa James Robert Michael 
+2023-05-13    19:00    20:00    gathering          John Mary Lucy Lisa Robert Michael Lily 
+2023-05-13    20:00    22:00    groupStudy         Lucy James Robert Michael Lily 
+2023-05-13    22:00    23:00    groupStudy         John Lucy Paul Lisa James Robert Michael Lily 
+2023-05-15    18:00    21:00    groupStudy         Lucy James Michael 
+2023-05-16    18:00    21:00    gathering          John Paul Lily 
+2023-05-16    21:00    23:00    groupStudy         John Mary Lucy Paul Lisa James Robert Michael Lily 
+2023-05-17    18:00    22:00    gathering          John Mary Lucy Lily 
+2023-05-17    22:00    23:00    gathering          John Mary Lucy Paul Lisa Michael Lily 
+2023-05-18    18:00    21:00    gathering          Lucy Paul Lisa James Robert Michael Lily 
+2023-05-19    18:00    21:00    groupStudy         John Lisa Robert 
+2023-05-19    21:00    23:00    gathering          Mary Lucy Paul Lisa James Robert Lily 
+2023-05-22    18:00    19:00    gathering          John Mary Lucy Paul Lisa James Robert Michael Lily 
+2023-05-24    18:00    19:00    projectMeeting     Mary Paul Lisa Michael Lily 
+2023-05-24    19:00    22:00    groupStudy         Mary Lucy Paul 
+2023-05-25    20:00    21:00    gathering          John Mary Lucy Paul James Michael Lily 
+2023-05-29    18:00    23:00    gathering          John Mary Lucy James 
+2023-05-30    18:00    22:00    projectMeeting     John Lucy Lisa Michael 
+                            - End of Mike's Schedule -
+. Michael, you have 41 appointments.
+Date          Start    End      Type               People
+====================================================================================
+2023-05-02    19:00    20:00    projectMeeting     John Mary Lucy Paul Lisa James Robert Mike Lily 
+2023-05-02    21:00    22:00    groupStudy         John Lucy Paul Lisa James Robert Mike Lily 
+2023-05-02    22:00    23:00    projectMeeting     Mary Lisa James Robert Mike Lily 
+2023-05-03    18:00    20:00    groupStudy         Mary Lucy Paul Lisa James Robert Lily 
+2023-05-03    21:00    22:00    gathering          Mary Lucy Paul James Robert Mike Lily 
+2023-05-04    18:00    20:00    projectMeeting     John Lisa Mike Lily 
+2023-05-05    18:00    20:00    projectMeeting     Lucy Paul Lisa James Robert Mike Lily 
+2023-05-05    20:00    22:00    gathering          John Mary Lucy Lisa James Robert Mike 
+2023-05-06    18:00    20:00    projectMeeting     John Mary Paul Lisa James Mike Lily 
+2023-05-06    20:00    21:00    groupStudy         James Robert 
+2023-05-06    21:00    23:00    projectMeeting     John Lucy Paul Lisa James Robert Mike Lily 
+2023-05-08    18:00    19:00    projectMeeting     John Mary Lucy Lisa James Robert Lily 
+2023-05-08    19:00    21:00    gathering          John Mary Lucy Paul Lisa James Robert Mike Lily 
+2023-05-08    22:00    23:00    gathering          John Mary Lucy Paul Lisa Robert Mike Lily 
+2023-05-09    18:00    20:00    projectMeeting     John Paul Lisa James 
+2023-05-09    20:00    22:00    gathering          John Robert Mike 
+2023-05-09    22:00    23:00    groupStudy         John Mary Lucy Paul Lisa James Robert Mike Lily 
+2023-05-10    21:00    23:00    groupStudy         Mary Lucy Paul James 
+2023-05-11    18:00    21:00    projectMeeting     Mike 
+2023-05-11    22:00    23:00    groupStudy         John Mary Lucy Paul Lisa James Robert Mike Lily 
+2023-05-12    18:00    19:00    groupStudy         John Mary Lucy Paul Lisa James Mike Lily 
+2023-05-12    21:00    23:00    gathering          John Mary Paul Lisa James Robert Mike Lily 
+2023-05-13    18:00    19:00    groupStudy         Mary Lucy Lisa James Robert Mike 
+2023-05-13    19:00    20:00    gathering          John Mary Lucy Lisa Robert Mike Lily 
+2023-05-13    20:00    22:00    groupStudy         Lucy James Robert Mike Lily 
+2023-05-13    22:00    23:00    groupStudy         John Lucy Paul Lisa James Robert Mike Lily 
+2023-05-15    18:00    21:00    groupStudy         Lucy James Mike 
+2023-05-16    21:00    23:00    groupStudy         John Mary Lucy Paul Lisa James Robert Mike Lily 
+2023-05-17    22:00    23:00    gathering          John Mary Lucy Paul Lisa Mike Lily 
+2023-05-18    18:00    21:00    gathering          Lucy Paul Lisa James Robert Mike Lily 
+2023-05-19    18:00    21:00    groupStudy         Mary Paul Lily 
+2023-05-20    19:00    22:00    gathering          Mary Lucy Lisa James Robert 
+2023-05-22    18:00    19:00    gathering          John Mary Lucy Paul Lisa James Robert Mike Lily 
+2023-05-22    19:00    23:00    groupStudy         Lily 
+2023-05-23    18:00    22:00    projectMeeting     Mary Lily 
+2023-05-24    18:00    19:00    projectMeeting     Mary Paul Lisa Mike Lily 
+2023-05-25    20:00    21:00    gathering          John Mary Lucy Paul James Mike Lily 
+2023-05-27    18:00    21:00    gathering          Paul James Robert 
+2023-05-27    21:00    23:00    gathering          Mary Lucy Paul Lisa James Robert Lily 
+2023-05-30    18:00    22:00    projectMeeting     John Lucy Lisa Mike 
+2023-05-31    21:00    23:00    projectMeeting     John Lucy Lily 
+                            - End of Michael's Schedule -
+. Lily, you have 47 appointments.
+Date          Start    End      Type               People
+====================================================================================
+2023-05-02    18:00    19:00    gathering          Mary Lucy Paul Lisa Robert 
+2023-05-02    19:00    20:00    projectMeeting     John Mary Lucy Paul Lisa James Robert Mike Michael 
+2023-05-02    20:00    21:00    gathering          John Mary Lucy Paul Lisa James Robert Mike 
+2023-05-02    21:00    22:00    groupStudy         John Lucy Paul Lisa James Robert Mike Michael 
+2023-05-02    22:00    23:00    projectMeeting     Mary Lisa James Robert Mike Michael 
+2023-05-03    18:00    20:00    groupStudy         Mary Lucy Paul Lisa James Robert Michael 
+2023-05-03    21:00    22:00    gathering          Mary Lucy Paul James Robert Mike Michael 
+2023-05-04    18:00    20:00    projectMeeting     John Lisa Mike Michael 
+2023-05-04    21:00    23:00    projectMeeting     Mary Mike 
+2023-05-05    18:00    20:00    projectMeeting     Lucy Paul Lisa James Robert Mike Michael 
+2023-05-05    20:00    21:00    privateTime        
+2023-05-05    22:00    23:00    groupStudy         John Mary Lucy Lisa James Mike 
+2023-05-06    18:00    20:00    projectMeeting     John Mary Paul Lisa James Mike Michael 
+2023-05-06    20:00    21:00    projectMeeting     Paul Mike 
+2023-05-06    21:00    23:00    projectMeeting     John Lucy Paul Lisa James Robert Mike Michael 
+2023-05-08    18:00    19:00    projectMeeting     John Mary Lucy Lisa James Robert Michael 
+2023-05-08    19:00    21:00    gathering          John Mary Lucy Paul Lisa James Robert Mike Michael 
+2023-05-08    21:00    22:00    gathering          John Lucy Paul Lisa Robert 
+2023-05-08    22:00    23:00    gathering          John Mary Lucy Paul Lisa Robert Mike Michael 
+2023-05-09    18:00    22:00    privateTime        
+2023-05-09    22:00    23:00    groupStudy         John Mary Lucy Paul Lisa James Robert Mike Michael 
+2023-05-10    18:00    21:00    projectMeeting     John Paul James Mike 
+2023-05-11    21:00    22:00    groupStudy         Lucy 
+2023-05-11    22:00    23:00    groupStudy         John Mary Lucy Paul Lisa James Robert Mike Michael 
+2023-05-12    18:00    19:00    groupStudy         John Mary Lucy Paul Lisa James Mike Michael 
+2023-05-12    19:00    21:00    projectMeeting     Mary Lucy Paul Lisa James Robert Mike 
+2023-05-12    21:00    23:00    gathering          John Mary Paul Lisa James Robert Mike Michael 
+2023-05-13    19:00    20:00    gathering          John Mary Lucy Lisa Robert Mike Michael 
+2023-05-13    20:00    22:00    groupStudy         Lucy James Robert Mike Michael 
+2023-05-13    22:00    23:00    groupStudy         John Lucy Paul Lisa James Robert Mike Michael 
+2023-05-15    18:00    20:00    gathering          Mary Paul 
+2023-05-16    18:00    21:00    gathering          John Paul Mike 
+2023-05-16    21:00    23:00    groupStudy         John Mary Lucy Paul Lisa James Robert Mike Michael 
+2023-05-17    18:00    22:00    gathering          John Mary Lucy Mike 
+2023-05-17    22:00    23:00    gathering          John Mary Lucy Paul Lisa Mike Michael 
+2023-05-18    18:00    21:00    gathering          Lucy Paul Lisa James Robert Mike Michael 
+2023-05-19    18:00    21:00    groupStudy         Mary Paul Michael 
+2023-05-19    21:00    23:00    gathering          Mary Lucy Paul Lisa James Robert Mike 
+2023-05-22    18:00    19:00    gathering          John Mary Lucy Paul Lisa James Robert Mike Michael 
+2023-05-22    19:00    23:00    groupStudy         Michael 
+2023-05-23    18:00    22:00    projectMeeting     Mary Michael 
+2023-05-24    18:00    19:00    projectMeeting     Mary Paul Lisa Mike Michael 
+2023-05-24    20:00    23:00    privateTime        
+2023-05-25    20:00    21:00    gathering          John Mary Lucy Paul James Mike Michael 
+2023-05-27    21:00    23:00    gathering          Mary Lucy Paul Lisa James Robert Michael 
+2023-05-29    19:00    20:00    privateTime        
+2023-05-31    21:00    23:00    projectMeeting     John Lucy Michael 
+                            - End of Lily's Schedule -

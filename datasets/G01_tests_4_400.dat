@@ -1,0 +1,400 @@
+projectMeeting john 20230514 1800 4.0 paul lucy
+privateTime paul 20230502 1900 4.0
+gathering john 20230531 1900 3.0 lucy
+groupStudy paul 20230513 2000 2.0 john lucy
+gathering mary 20230505 2000 2.0 paul john lucy
+groupStudy paul 20230505 1900 2.0 mary
+groupStudy john 20230514 2100 2.0 mary paul lucy
+groupStudy lucy 20230502 1900 1.0 paul john mary
+privateTime mary 20230513 1900 3.0
+groupStudy mary 20230515 1800 2.0 paul lucy
+projectMeeting mary 20230522 1900 3.0 paul
+projectMeeting mary 20230510 2100 1.0 paul lucy
+groupStudy john 20230508 2100 1.0 mary paul
+gathering mary 20230515 2000 2.0 lucy john
+privateTime lucy 20230517 2000 2.0
+projectMeeting lucy 20230516 1900 4.0 paul mary
+privateTime lucy 20230516 2100 1.0
+gathering john 20230527 2100 1.0 mary paul lucy
+gathering lucy 20230505 1800 1.0 mary
+groupStudy paul 20230525 2100 2.0 mary lucy john
+privateTime paul 20230524 1900 2.0
+privateTime john 20230521 1900 4.0
+privateTime paul 20230514 2000 1.0
+groupStudy john 20230520 1800 5.0 lucy
+projectMeeting lucy 20230505 2100 2.0 john mary
+groupStudy john 20230514 1900 2.0 lucy paul
+groupStudy paul 20230522 2100 1.0 lucy
+gathering lucy 20230507 1800 4.0 john mary paul
+groupStudy paul 20230527 1800 1.0 mary lucy
+groupStudy lucy 20230521 1900 3.0 mary paul john
+groupStudy paul 20230521 2100 2.0 mary lucy
+projectMeeting lucy 20230503 2100 2.0 mary john paul
+privateTime paul 20230519 1800 3.0
+projectMeeting paul 20230520 2100 2.0 john
+projectMeeting john 20230504 2000 3.0 lucy mary paul
+gathering john 20230519 1900 4.0 paul
+privateTime john 20230517 1900 3.0
+groupStudy lucy 20230519 1800 3.0 paul john mary
+privateTime mary 20230520 1800 3.0
+groupStudy lucy 20230503 2000 2.0 john
+gathering lucy 20230523 2100 2.0 john paul mary
+gathering lucy 20230531 2000 3.0 john
+projectMeeting john 20230521 2100 1.0 lucy mary paul
+privateTime john 20230518 2000 2.0
+projectMeeting john 20230510 1900 2.0 lucy
+privateTime paul 20230527 2000 1.0
+groupStudy john 20230520 2100 2.0 paul
+groupStudy lucy 20230506 1900 4.0 john
+gathering mary 20230519 1900 4.0 paul
+groupStudy lucy 20230508 1800 1.0 mary john paul
+privateTime paul 20230520 2100 1.0
+privateTime mary 20230531 1900 4.0
+groupStudy mary 20230504 2100 2.0 john paul
+privateTime john 20230503 1800 4.0
+groupStudy john 20230511 2100 1.0 lucy paul
+groupStudy mary 20230501 1900 2.0 john
+projectMeeting john 20230513 1900 4.0 mary
+privateTime mary 20230527 1800 1.0
+projectMeeting lucy 20230503 2100 1.0 mary john paul
+gathering lucy 20230523 1800 4.0 john mary
+groupStudy lucy 20230521 2100 2.0 john mary paul
+privateTime lucy 20230506 2000 1.0
+projectMeeting paul 20230509 1900 1.0 lucy
+privateTime paul 20230510 1800 5.0
+projectMeeting lucy 20230521 2000 3.0 john mary paul
+projectMeeting mary 20230518 1900 1.0 lucy paul
+privateTime paul 20230528 1900 1.0
+projectMeeting lucy 20230510 2100 2.0 john mary paul
+gathering paul 20230515 1900 2.0 john
+gathering mary 20230519 2100 2.0 paul john lucy
+projectMeeting lucy 20230521 2000 3.0 mary paul john
+privateTime paul 20230515 1800 1.0
+projectMeeting john 20230520 2100 1.0 mary
+privateTime lucy 20230514 2000 1.0
+gathering lucy 20230503 1800 3.0 john mary
+projectMeeting mary 20230518 2100 1.0 john lucy
+projectMeeting john 20230526 2100 1.0 lucy mary paul
+privateTime mary 20230515 2100 1.0
+gathering paul 20230506 2100 1.0 john mary lucy
+privateTime mary 20230519 2000 2.0
+privateTime paul 20230514 2100 2.0
+gathering john 20230522 2000 2.0 paul lucy mary
+privateTime lucy 20230529 1800 4.0
+gathering john 20230515 1800 2.0 mary paul lucy
+privateTime lucy 20230529 2100 1.0
+gathering mary 20230528 2100 2.0 paul
+groupStudy lucy 20230521 2100 2.0 paul john mary
+gathering lucy 20230508 1900 4.0 mary paul
+gathering paul 20230517 1800 5.0 john mary
+privateTime john 20230512 1900 2.0
+projectMeeting paul 20230506 1800 4.0 john
+projectMeeting john 20230515 1900 3.0 mary
+groupStudy lucy 20230522 1900 4.0 mary
+groupStudy mary 20230509 2000 1.0 john
+groupStudy paul 20230504 1900 4.0 lucy mary
+privateTime lucy 20230520 2000 2.0
+gathering lucy 20230516 1800 3.0 mary john
+groupStudy paul 20230519 1900 2.0 john
+projectMeeting mary 20230524 2100 1.0 paul lucy
+privateTime mary 20230513 1800 2.0
+gathering paul 20230527 2100 1.0 lucy
+gathering mary 20230508 1800 2.0 lucy john
+gathering lucy 20230523 2100 1.0 john
+projectMeeting mary 20230516 2000 3.0 lucy john paul
+projectMeeting john 20230503 1900 4.0 lucy paul mary
+projectMeeting lucy 20230529 2100 1.0 mary paul
+projectMeeting john 20230514 1800 5.0 mary
+groupStudy paul 20230509 1800 2.0 lucy mary
+privateTime john 20230512 1900 2.0
+privateTime lucy 20230521 2100 1.0
+projectMeeting lucy 20230520 1900 2.0 mary john
+projectMeeting paul 20230503 1900 3.0 john lucy mary
+groupStudy lucy 20230502 1800 4.0 paul mary john
+privateTime paul 20230515 1900 3.0
+privateTime paul 20230523 2000 2.0
+gathering paul 20230521 2000 2.0 mary john
+privateTime mary 20230504 2000 1.0
+groupStudy lucy 20230525 2100 2.0 mary
+privateTime john 20230522 1900 2.0
+groupStudy john 20230519 1900 2.0 paul lucy
+projectMeeting john 20230528 2000 2.0 paul mary lucy
+groupStudy paul 20230515 1900 2.0 lucy
+privateTime lucy 20230522 2100 2.0
+groupStudy lucy 20230511 2000 2.0 mary john paul
+projectMeeting lucy 20230529 2000 3.0 mary
+groupStudy john 20230511 2100 2.0 mary
+projectMeeting lucy 20230528 1800 3.0 paul
+projectMeeting paul 20230525 1900 1.0 lucy john
+groupStudy john 20230506 1800 3.0 mary lucy
+privateTime mary 20230520 1800 4.0
+projectMeeting john 20230517 2000 1.0 lucy paul
+projectMeeting mary 20230502 2000 2.0 lucy john
+privateTime john 20230514 2100 2.0
+projectMeeting lucy 20230523 1900 3.0 paul mary john
+privateTime paul 20230511 1900 2.0
+projectMeeting john 20230526 1800 2.0 paul
+gathering lucy 20230524 1900 1.0 john paul mary
+projectMeeting mary 20230521 1800 2.0 paul john lucy
+privateTime lucy 20230528 1900 4.0
+projectMeeting paul 20230516 1900 1.0 lucy mary
+groupStudy lucy 20230525 2000 1.0 mary
+privateTime lucy 20230503 1800 3.0
+projectMeeting mary 20230531 1800 5.0 john
+groupStudy john 20230529 2100 1.0 paul
+gathering paul 20230511 2000 3.0 mary john
+gathering john 20230515 1800 2.0 lucy paul mary
+groupStudy lucy 20230502 1800 3.0 john mary
+groupStudy john 20230530 2000 2.0 paul
+groupStudy john 20230521 1800 3.0 lucy
+groupStudy john 20230502 2000 1.0 paul
+gathering lucy 20230520 1800 3.0 mary paul john
+groupStudy paul 20230510 1900 2.0 lucy mary john
+gathering mary 20230515 1800 2.0 paul lucy john
+projectMeeting john 20230531 2100 1.0 lucy mary
+groupStudy paul 20230502 1900 1.0 lucy
+privateTime john 20230524 1900 1.0
+gathering lucy 20230508 2100 1.0 john mary
+gathering john 20230528 1800 2.0 paul mary lucy
+gathering mary 20230510 1800 2.0 paul
+gathering mary 20230525 2000 2.0 paul
+groupStudy mary 20230514 1900 3.0 lucy
+projectMeeting lucy 20230522 2000 3.0 mary john
+privateTime lucy 20230502 2000 1.0
+projectMeeting paul 20230517 1900 2.0 john
+privateTime lucy 20230523 1800 4.0
+groupStudy lucy 20230530 1800 2.0 john
+gathering lucy 20230511 2100 2.0 paul
+privateTime mary 20230530 1900 2.0
+groupStudy paul 20230520 1800 2.0 lucy mary
+projectMeeting mary 20230522 1800 5.0 paul lucy
+groupStudy lucy 20230519 2100 2.0 mary john
+privateTime john 20230518 2000 2.0
+gathering john 20230515 2100 1.0 mary
+projectMeeting john 20230519 2100 1.0 lucy mary paul
+privateTime mary 20230520 1900 3.0
+privateTime lucy 20230508 2100 1.0
+projectMeeting john 20230516 1900 1.0 lucy mary paul
+privateTime john 20230503 1900 4.0
+gathering john 20230503 1800 1.0 mary paul
+projectMeeting paul 20230507 1800 1.0 mary lucy john
+gathering mary 20230531 1900 4.0 lucy paul
+privateTime paul 20230525 2100 1.0
+gathering john 20230517 2000 2.0 paul lucy
+projectMeeting paul 20230510 1800 2.0 john
+projectMeeting mary 20230521 2100 2.0 paul
+privateTime lucy 20230525 2000 2.0
+gathering paul 20230524 2000 3.0 lucy
+groupStudy mary 20230529 1800 3.0 john
+privateTime mary 20230527 1900 2.0
+privateTime lucy 20230509 1800 3.0
+groupStudy lucy 20230531 2000 1.0 mary
+groupStudy john 20230514 2100 2.0 mary paul
+privateTime lucy 20230518 2100 1.0
+privateTime lucy 20230519 2100 1.0
+groupStudy mary 20230531 2000 1.0 paul john
+projectMeeting paul 20230514 1800 4.0 john lucy
+groupStudy lucy 20230504 1800 4.0 john mary
+gathering paul 20230517 1800 4.0 mary john lucy
+gathering paul 20230510 2100 1.0 lucy mary john
+groupStudy mary 20230519 1800 3.0 lucy
+projectMeeting john 20230517 1900 2.0 paul
+privateTime paul 20230511 2000 2.0
+privateTime john 20230523 2000 1.0
+groupStudy paul 20230503 2000 2.0 mary
+gathering paul 20230529 1800 3.0 john mary
+gathering paul 20230516 2000 2.0 john lucy mary
+privateTime lucy 20230527 1800 2.0
+gathering paul 20230502 1800 2.0 lucy john
+groupStudy john 20230514 2100 1.0 mary paul
+projectMeeting john 20230514 2100 1.0 paul lucy
+privateTime john 20230506 2100 1.0
+privateTime john 20230508 1800 5.0
+groupStudy lucy 20230511 2100 2.0 john mary paul
+gathering lucy 20230521 2100 2.0 paul mary
+projectMeeting paul 20230526 1900 4.0 john
+privateTime mary 20230524 1800 3.0
+gathering john 20230505 1800 5.0 paul
+privateTime lucy 20230520 1900 1.0
+projectMeeting mary 20230502 1800 5.0 paul lucy john
+gathering lucy 20230504 2100 1.0 paul mary john
+groupStudy lucy 20230519 2100 2.0 paul mary
+projectMeeting paul 20230507 1800 2.0 mary
+gathering mary 20230503 2000 2.0 lucy john
+privateTime mary 20230516 2100 1.0
+gathering lucy 20230508 1900 4.0 john paul
+gathering john 20230515 2000 2.0 mary lucy paul
+privateTime lucy 20230501 1800 4.0
+projectMeeting lucy 20230513 1900 1.0 john paul
+privateTime lucy 20230520 2100 1.0
+gathering lucy 20230512 2100 2.0 john mary paul
+gathering mary 20230525 2100 1.0 john lucy
+groupStudy lucy 20230516 2000 2.0 mary
+groupStudy john 20230514 1800 3.0 mary lucy
+projectMeeting paul 20230526 1800 2.0 john lucy mary
+projectMeeting paul 20230507 2000 3.0 mary john lucy
+projectMeeting lucy 20230531 2000 2.0 john paul
+privateTime john 20230530 1900 4.0
+privateTime paul 20230525 1900 3.0
+gathering lucy 20230517 1800 1.0 john
+groupStudy paul 20230503 1800 1.0 lucy john
+projectMeeting john 20230514 2000 2.0 lucy
+gathering mary 20230521 1900 2.0 john lucy paul
+projectMeeting lucy 20230503 2000 3.0 mary john
+privateTime lucy 20230504 1900 3.0
+gathering mary 20230523 2100 1.0 paul john lucy
+privateTime lucy 20230523 1900 4.0
+groupStudy paul 20230519 2100 2.0 lucy
+gathering lucy 20230524 2000 2.0 mary paul
+projectMeeting paul 20230531 1800 2.0 john lucy mary
+groupStudy paul 20230520 2100 2.0 john lucy
+projectMeeting paul 20230513 1800 1.0 john lucy
+privateTime paul 20230506 1900 1.0
+groupStudy paul 20230526 1900 4.0 mary lucy john
+groupStudy lucy 20230511 1800 3.0 mary paul
+privateTime lucy 20230513 1800 3.0
+privateTime lucy 20230510 1900 3.0
+privateTime lucy 20230510 2000 1.0
+groupStudy paul 20230511 2100 2.0 john mary lucy
+projectMeeting mary 20230518 2100 2.0 lucy
+gathering paul 20230516 1900 2.0 mary
+gathering john 20230503 1800 5.0 paul
+projectMeeting mary 20230516 2100 1.0 paul lucy
+groupStudy paul 20230506 2000 3.0 lucy
+groupStudy paul 20230518 1900 4.0 lucy john mary
+gathering john 20230506 1900 4.0 lucy mary paul
+gathering lucy 20230510 2000 1.0 paul
+groupStudy mary 20230509 2100 2.0 john
+projectMeeting paul 20230530 1800 5.0 lucy mary john
+gathering paul 20230503 1800 4.0 lucy mary john
+projectMeeting paul 20230524 1900 3.0 lucy mary john
+groupStudy mary 20230525 1800 5.0 lucy paul john
+groupStudy lucy 20230509 2100 1.0 paul mary john
+projectMeeting paul 20230519 1800 4.0 john mary lucy
+gathering paul 20230524 2000 3.0 mary john
+projectMeeting paul 20230526 1800 1.0 lucy john mary
+groupStudy lucy 20230517 1900 3.0 mary john
+privateTime paul 20230527 2100 1.0
+groupStudy lucy 20230523 2000 2.0 paul john
+projectMeeting mary 20230514 1800 5.0 paul
+gathering john 20230525 2100 2.0 lucy paul
+groupStudy paul 20230517 2000 3.0 mary
+projectMeeting john 20230503 1800 2.0 paul
+gathering paul 20230531 1800 1.0 mary john lucy
+privateTime mary 20230501 1900 2.0
+privateTime john 20230517 2100 2.0
+groupStudy john 20230520 2000 1.0 lucy
+privateTime lucy 20230523 1900 4.0
+groupStudy paul 20230528 1800 1.0 lucy john mary
+groupStudy mary 20230513 2000 2.0 lucy paul
+privateTime john 20230505 1800 3.0
+gathering paul 20230523 1800 1.0 mary john lucy
+groupStudy mary 20230531 2100 1.0 lucy john
+privateTime lucy 20230504 2100 2.0
+gathering mary 20230525 1900 4.0 lucy
+groupStudy mary 20230515 2000 2.0 lucy john
+projectMeeting mary 20230518 2000 1.0 lucy john
+privateTime mary 20230507 2100 2.0
+projectMeeting john 20230508 2100 2.0 paul
+projectMeeting lucy 20230508 2100 1.0 john
+privateTime paul 20230507 2100 1.0
+privateTime paul 20230517 1900 3.0
+projectMeeting mary 20230524 1900 1.0 john lucy paul
+groupStudy lucy 20230528 2100 2.0 mary
+privateTime john 20230522 2000 2.0
+gathering mary 20230504 1900 1.0 paul lucy
+gathering mary 20230504 1800 3.0 john
+privateTime john 20230523 1800 3.0
+projectMeeting mary 20230515 2100 1.0 john
+privateTime paul 20230516 1900 3.0
+privateTime john 20230502 1900 2.0
+groupStudy paul 20230516 2100 2.0 lucy john mary
+privateTime paul 20230504 1900 4.0
+gathering lucy 20230517 2000 3.0 john mary
+gathering john 20230520 1900 2.0 lucy paul
+gathering lucy 20230501 1800 4.0 mary john paul
+gathering paul 20230510 1800 5.0 mary
+gathering paul 20230502 2100 1.0 john
+projectMeeting paul 20230527 1900 2.0 john lucy
+groupStudy paul 20230518 1800 4.0 john mary lucy
+groupStudy lucy 20230515 2100 1.0 paul mary john
+privateTime paul 20230506 2100 2.0
+projectMeeting mary 20230508 1800 5.0 john
+gathering paul 20230503 1900 4.0 mary lucy john
+projectMeeting paul 20230520 2100 1.0 john lucy mary
+projectMeeting paul 20230524 2000 2.0 lucy john
+gathering john 20230506 1800 3.0 mary
+groupStudy mary 20230510 1800 2.0 lucy
+groupStudy lucy 20230520 2100 1.0 john
+groupStudy paul 20230515 2100 1.0 john mary
+groupStudy john 20230529 2100 2.0 paul
+gathering john 20230530 2000 1.0 paul lucy mary
+privateTime lucy 20230512 2100 1.0
+privateTime paul 20230530 1800 2.0
+projectMeeting john 20230520 2000 2.0 mary
+groupStudy john 20230521 1900 4.0 lucy
+projectMeeting mary 20230525 2000 3.0 paul lucy
+privateTime paul 20230525 1900 2.0
+gathering john 20230503 2000 2.0 lucy
+projectMeeting lucy 20230518 1800 3.0 mary john
+gathering paul 20230511 1800 4.0 lucy
+groupStudy lucy 20230516 1900 4.0 paul john mary
+projectMeeting john 20230530 1900 4.0 mary
+privateTime paul 20230521 2000 3.0
+privateTime john 20230514 2000 1.0
+projectMeeting lucy 20230530 1900 3.0 john mary paul
+groupStudy lucy 20230525 1900 1.0 mary
+projectMeeting john 20230511 2100 2.0 paul lucy mary
+privateTime mary 20230523 2100 1.0
+projectMeeting mary 20230517 2000 2.0 paul john
+groupStudy mary 20230504 1800 5.0 john
+groupStudy john 20230527 1900 4.0 lucy mary
+groupStudy john 20230514 2100 1.0 paul
+gathering mary 20230512 2100 2.0 john
+projectMeeting lucy 20230520 1900 2.0 john mary
+privateTime paul 20230530 1800 4.0
+projectMeeting paul 20230505 2000 3.0 lucy
+gathering lucy 20230530 1900 4.0 john paul mary
+groupStudy mary 20230505 1800 3.0 lucy john
+gathering lucy 20230503 1900 1.0 mary john paul
+privateTime lucy 20230523 1800 5.0
+gathering mary 20230514 2000 2.0 john lucy paul
+privateTime john 20230508 1800 4.0
+groupStudy paul 20230507 2100 1.0 john lucy
+privateTime lucy 20230525 1800 1.0
+projectMeeting paul 20230526 2000 2.0 lucy mary
+groupStudy mary 20230503 1800 2.0 john lucy paul
+projectMeeting john 20230530 2100 1.0 lucy mary
+privateTime lucy 20230516 1800 1.0
+projectMeeting lucy 20230523 1800 4.0 john
+projectMeeting mary 20230530 1900 2.0 lucy paul john
+groupStudy paul 20230521 2100 2.0 lucy
+gathering john 20230531 2100 2.0 lucy paul mary
+groupStudy mary 20230520 2100 1.0 john lucy
+privateTime mary 20230505 1900 4.0
+gathering lucy 20230502 1800 4.0 mary paul
+groupStudy john 20230511 2000 3.0 paul lucy
+projectMeeting john 20230516 1900 2.0 mary lucy
+groupStudy lucy 20230503 1800 5.0 paul mary john
+projectMeeting lucy 20230505 1800 1.0 mary
+privateTime mary 20230522 1800 2.0
+gathering john 20230526 1900 1.0 mary lucy paul
+gathering paul 20230515 2100 2.0 john
+groupStudy mary 20230529 1800 5.0 john
+projectMeeting john 20230504 2100 1.0 paul
+groupStudy paul 20230502 1900 4.0 mary lucy john
+projectMeeting mary 20230526 2100 2.0 lucy
+privateTime john 20230509 2100 2.0
+projectMeeting john 20230518 2100 1.0 lucy paul mary
+privateTime john 20230511 1900 1.0
+projectMeeting paul 20230519 2000 1.0 mary lucy john
+groupStudy mary 20230524 1900 2.0 john paul
+projectMeeting lucy 20230527 2000 2.0 mary john paul
+gathering paul 20230503 1800 5.0 john lucy mary
+groupStudy john 20230514 1800 1.0 paul lucy
+groupStudy lucy 20230517 2100 2.0 john paul
+gathering mary 20230522 1900 4.0 lucy paul
+groupStudy lucy 20230517 2100 1.0 mary paul john
+projectMeeting paul 20230513 2100 1.0 mary
+projectMeeting paul 20230510 2000 3.0 mary john lucy
+privateTime john 20230511 2000 3.0

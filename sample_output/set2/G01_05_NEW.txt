@@ -1,0 +1,111 @@
+Period: 2023-04-01 to 2023-04-30
+Algorithm used: NEW
+
+***Appointment Schedule***
+
+. John, you have 21 appointments.
+Date          Start    End      Type               People
+====================================================================================
+2023-04-02    18:00    22:00    privateTime        
+2023-04-03    18:00    22:00    projectMeeting     Lucy Paul 
+2023-04-03    22:00    23:00    groupStudy         Mary Lucy Paul 
+2023-04-04    18:00    22:00    gathering          Mary Lucy Paul 
+2023-04-05    18:00    21:00    groupStudy         Mary Lucy Paul 
+2023-04-05    21:00    23:00    projectMeeting     Mary Lucy 
+2023-04-06    18:00    20:00    groupStudy         Lucy 
+2023-04-06    21:00    23:00    gathering          Mary Lucy Paul 
+2023-04-08    21:00    22:00    groupStudy         Mary Paul 
+2023-04-10    20:00    22:00    projectMeeting     Paul 
+2023-04-12    18:00    20:00    groupStudy         Lucy Paul 
+2023-04-13    20:00    22:00    groupStudy         Lucy Paul 
+2023-04-15    20:00    22:00    gathering          Mary Lucy 
+2023-04-17    19:00    22:00    privateTime        
+2023-04-19    19:00    23:00    gathering          Paul 
+2023-04-20    18:00    23:00    groupStudy         Lucy 
+2023-04-24    18:00    21:00    projectMeeting     Mary Lucy Paul 
+2023-04-24    21:00    23:00    groupStudy         Mary Lucy Paul 
+2023-04-25    21:00    23:00    groupStudy         Mary Lucy Paul 
+2023-04-27    21:00    22:00    gathering          Mary Lucy Paul 
+2023-04-31    19:00    22:00    gathering          Lucy 
+                            - End of John's Schedule -
+. Mary, you have 20 appointments.
+Date          Start    End      Type               People
+====================================================================================
+2023-04-02    19:00    20:00    gathering          Lucy 
+2023-04-03    22:00    23:00    groupStudy         John Lucy Paul 
+2023-04-04    18:00    22:00    gathering          John Lucy Paul 
+2023-04-05    18:00    21:00    groupStudy         John Lucy Paul 
+2023-04-05    21:00    23:00    projectMeeting     John Lucy 
+2023-04-06    21:00    23:00    gathering          John Lucy Paul 
+2023-04-08    21:00    22:00    groupStudy         John Paul 
+2023-04-13    19:00    22:00    privateTime        
+2023-04-15    18:00    20:00    groupStudy         Lucy Paul 
+2023-04-15    20:00    22:00    gathering          John Lucy 
+2023-04-16    19:00    23:00    projectMeeting     Lucy Paul 
+2023-04-20    18:00    21:00    privateTime        
+2023-04-20    21:00    23:00    groupStudy         Paul 
+2023-04-22    19:00    22:00    projectMeeting     Paul 
+2023-04-24    18:00    21:00    projectMeeting     John Lucy Paul 
+2023-04-24    21:00    23:00    groupStudy         John Lucy Paul 
+2023-04-25    21:00    23:00    groupStudy         John Lucy Paul 
+2023-04-27    18:00    19:00    groupStudy         Lucy Paul 
+2023-04-27    19:00    21:00    groupStudy         Lucy Paul 
+2023-04-27    21:00    22:00    gathering          John Lucy Paul 
+                            - End of Mary's Schedule -
+. Lucy, you have 24 appointments.
+Date          Start    End      Type               People
+====================================================================================
+2023-04-02    18:00    19:00    privateTime        
+2023-04-02    19:00    20:00    gathering          Mary 
+2023-04-03    18:00    22:00    projectMeeting     John Paul 
+2023-04-03    22:00    23:00    groupStudy         John Mary Paul 
+2023-04-04    18:00    22:00    gathering          John Mary Paul 
+2023-04-04    22:00    23:00    groupStudy         Paul 
+2023-04-05    18:00    21:00    groupStudy         John Mary Paul 
+2023-04-05    21:00    23:00    projectMeeting     John Mary 
+2023-04-06    18:00    20:00    groupStudy         John 
+2023-04-06    21:00    23:00    gathering          John Mary Paul 
+2023-04-12    18:00    20:00    groupStudy         John Paul 
+2023-04-13    20:00    22:00    groupStudy         John Paul 
+2023-04-15    18:00    20:00    groupStudy         Mary Paul 
+2023-04-15    20:00    22:00    gathering          John Mary 
+2023-04-16    19:00    23:00    projectMeeting     Mary Paul 
+2023-04-17    20:00    22:00    privateTime        
+2023-04-20    18:00    23:00    groupStudy         John 
+2023-04-24    18:00    21:00    projectMeeting     John Mary Paul 
+2023-04-24    21:00    23:00    groupStudy         John Mary Paul 
+2023-04-25    21:00    23:00    groupStudy         John Mary Paul 
+2023-04-27    18:00    19:00    groupStudy         Mary Paul 
+2023-04-27    19:00    21:00    groupStudy         Mary Paul 
+2023-04-27    21:00    22:00    gathering          John Mary Paul 
+2023-04-31    19:00    22:00    gathering          John 
+                            - End of Lucy's Schedule -
+. Paul, you have 25 appointments.
+Date          Start    End      Type               People
+====================================================================================
+2023-04-02    18:00    19:00    privateTime        
+2023-04-02    19:00    23:00    privateTime        
+2023-04-03    18:00    22:00    projectMeeting     John Lucy 
+2023-04-03    22:00    23:00    groupStudy         John Mary Lucy 
+2023-04-04    18:00    22:00    gathering          John Mary Lucy 
+2023-04-04    22:00    23:00    groupStudy         Lucy 
+2023-04-05    18:00    21:00    groupStudy         John Mary Lucy 
+2023-04-05    21:00    23:00    privateTime        
+2023-04-06    18:00    21:00    privateTime        
+2023-04-06    21:00    23:00    gathering          John Mary Lucy 
+2023-04-08    21:00    22:00    groupStudy         John Mary 
+2023-04-10    20:00    22:00    projectMeeting     John 
+2023-04-12    18:00    20:00    groupStudy         John Lucy 
+2023-04-13    20:00    22:00    groupStudy         John Lucy 
+2023-04-15    18:00    20:00    groupStudy         Mary Lucy 
+2023-04-16    19:00    23:00    projectMeeting     Mary Lucy 
+2023-04-19    19:00    23:00    gathering          John 
+2023-04-20    21:00    23:00    groupStudy         Mary 
+2023-04-22    19:00    22:00    projectMeeting     Mary 
+2023-04-24    18:00    21:00    projectMeeting     John Mary Lucy 
+2023-04-24    21:00    23:00    groupStudy         John Mary Lucy 
+2023-04-25    21:00    23:00    groupStudy         John Mary Lucy 
+2023-04-27    18:00    19:00    groupStudy         Mary Lucy 
+2023-04-27    19:00    21:00    groupStudy         Mary Lucy 
+2023-04-27    21:00    22:00    gathering          John Mary Lucy 
+                            - End of Paul's Schedule -

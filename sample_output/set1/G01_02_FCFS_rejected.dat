@@ -1,0 +1,16 @@
+***Rejected List***
+Altogether there are 11 appointments rejected
+=========================================================================
+1. groupStudy mary 20230518 2000 3.0 james lisa michael lucy john mike robert lily paul
+2. projectMeeting michael 20230501 1800 3.0 mary paul john mike james robert lisa lucy
+3. projectMeeting james 20230525 1900 4.0 paul lily mary michael
+4. groupStudy lily 20230521 2000 3.0 lucy lisa paul
+5. groupStudy lisa 20230504 1900 4.0 robert lily james michael paul lucy
+6. gathering mike 20230526 1900 4.0 lily lucy
+7. projectMeeting lily 20230508 1900 3.0 john lucy paul mary
+8. gathering mary 20230525 1800 4.0 lucy
+9. gathering lucy 20230524 1800 5.0 lisa michael lily robert paul john james mike mary
+10. projectMeeting james 20230501 1900 3.0 mary lucy mike robert lisa michael john lily paul
+11. projectMeeting michael 20230519 1900 4.0 robert lucy paul lily james john
+=========================================================================
+                            - End of Rejected List  -

@@ -1,0 +1,60 @@
+***Rejected List***
+Algorithm used: FCFS
+
+Altogether there are 17 appointments rejected
+=========================================================================
+1. projectMeeting john 20230514 1800 4.0 paul lucy
+2. groupStudy paul 20230505 1900 2.0 mary
+3. groupStudy john 20230514 2100 2.0 mary paul lucy
+4. groupStudy lucy 20230502 1900 1.0 paul john mary
+5. privateTime lucy 20230516 2100 1.0
+6. privateTime john 20230521 1900 4.0
+7. privateTime paul 20230514 2000 1.0
+8. projectMeeting lucy 20230505 2100 2.0 john mary
+9. groupStudy john 20230514 1900 2.0 lucy paul
+10. groupStudy paul 20230522 2100 1.0 lucy
+11. gathering lucy 20230507 1800 4.0 john mary paul
+12. groupStudy lucy 20230521 1900 3.0 mary paul john
+13. groupStudy paul 20230521 2100 2.0 mary lucy
+14. projectMeeting paul 20230520 2100 2.0 john
+15. gathering john 20230519 1900 4.0 paul
+16. groupStudy lucy 20230519 1800 3.0 paul john mary
+17. groupStudy lucy 20230503 2000 2.0 john
+=========================================================================
+                            - End of Rejected List  -
+***Rejected List***
+Algorithm used: Priority
+
+Altogether there are 16 appointments rejected
+=========================================================================
+1. privateTime john 20230521 1900 4.0
+2. privateTime paul 20230514 2000 1.0
+3. projectMeeting john 20230514 1800 4.0 paul lucy
+4. projectMeeting lucy 20230516 1900 4.0 paul mary
+5. groupStudy john 20230514 2100 2.0 mary paul lucy
+6. groupStudy lucy 20230502 1900 1.0 paul john mary
+7. groupStudy john 20230520 1800 5.0 lucy
+8. groupStudy john 20230514 1900 2.0 lucy paul
+9. groupStudy paul 20230522 2100 1.0 lucy
+10. groupStudy lucy 20230521 1900 3.0 mary paul john
+11. groupStudy paul 20230521 2100 2.0 mary lucy
+12. groupStudy lucy 20230519 1800 3.0 paul john mary
+13. groupStudy lucy 20230503 2000 2.0 john
+14. gathering mary 20230505 2000 2.0 paul john lucy
+15. gathering lucy 20230507 1800 4.0 john mary paul
+16. gathering john 20230519 1900 4.0 paul
+=========================================================================
+                            - End of Rejected List  -
+***Rejected List***
+Algorithm used: NEW
+
+Altogether there are 6 appointments rejected
+=========================================================================
+1. projectMeeting john 20230520 1800 3.0 lucy mary paul
+2. groupStudy lucy 20230519 1800 3.0 paul john mary
+3. groupStudy john 20230514 2100 2.0 mary paul lucy
+4. groupStudy paul 20230519 1800 2.0 mary lucy
+5. projectMeeting lucy 20230503 2100 2.0 mary john paul
+6. groupStudy paul 20230508 2200 1.0 lucy
+=========================================================================
+                            - End of Rejected List  -

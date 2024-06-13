@@ -1,0 +1,47 @@
+***Rejected List***
+Altogether there are 42 appointments rejected
+=========================================================================
+1. projectMeeting james 20230521 2000 3.0 mike john lily paul
+2. groupStudy michael 20230527 1800 3.0 paul mary lily
+3. groupStudy mary 20230518 2000 3.0 james lisa michael lucy john mike robert lily paul
+4. groupStudy mary 20230505 1800 3.0 paul lucy mike
+5. projectMeeting michael 20230501 1800 3.0 mary paul john mike james robert lisa lucy
+6. groupStudy lisa 20230508 1900 3.0 john robert mike
+7. groupStudy lily 20230521 2000 3.0 lucy lisa paul
+8. projectMeeting lily 20230508 1900 3.0 john lucy paul mary
+9. projectMeeting james 20230501 1900 3.0 mary lucy mike robert lisa michael john lily paul
+10. gathering lucy 20230505 2000 2.0 john mary lisa mike michael james robert
+11. groupStudy lucy 20230515 1800 2.0 lily robert mary james lisa paul michael
+12. projectMeeting robert 20230515 2000 2.0 lily lucy michael mike paul james lisa
+13. projectMeeting mary 20230512 1900 2.0 lisa paul james mike lily robert lucy
+14. projectMeeting michael 20230519 1900 2.0 mary mike john james lisa lily paul
+15. projectMeeting lisa 20230520 2100 2.0 paul michael john james
+16. projectMeeting john 20230518 2100 2.0 lily michael mike lisa
+17. groupStudy mary 20230520 2100 2.0 james lucy paul michael
+18. projectMeeting mary 20230517 2000 2.0 lily mike
+19. gathering michael 20230508 1900 2.0 john lucy mary paul lisa mike robert lily james
+20. gathering mike 20230525 1900 2.0 john robert michael
+21. projectMeeting lisa 20230506 2100 2.0 robert michael lily mike james lucy john paul
+22. gathering mary 20230528 1900 2.0 paul mike john lily lisa michael james robert
+23. groupStudy michael 20230515 2100 2.0 paul robert mary lucy lily james mike lisa john
+24. gathering paul 20230528 1900 2.0 robert lisa lily mike mary james lucy
+25. groupStudy paul 20230527 1800 2.0 lucy lisa
+26. gathering lily 20230503 2100 1.0 paul james mike michael lucy robert mary
+27. gathering lily 20230502 2000 1.0 james paul lucy mike lisa robert mary john
+28. groupStudy john 20230511 2100 1.0 james lucy mary lisa mike lily
+29. projectMeeting michael 20230503 2100 1.0 john lucy mary robert lily james lisa
+30. gathering michael 20230506 2000 1.0 mike mary paul lisa lily lucy john robert
+31. groupStudy robert 20230526 2000 1.0 michael paul lily john mary lucy james lisa mike
+32. groupStudy mike 20230511 2000 1.0 john james lily lucy michael paul mary robert lisa
+33. groupStudy john 20230518 2100 1.0 paul james mary michael lily lisa mike lucy
+34. groupStudy lily 20230502 2100 1.0 michael robert paul john lucy lisa james mike
+35. projectMeeting robert 20230513 2200 1.0 mike james lisa lily mary michael
+36. privateTime lucy 20230508 1800 1.0
+37. projectMeeting lisa 20230524 1800 1.0 michael mike lily paul mary
+38. groupStudy lisa 20230512 2000 1.0 robert mary lucy james michael mike
+39. projectMeeting robert 20230502 1900 1.0 james paul john michael lisa mike lucy lily mary
+40. groupStudy mike 20230520 2100 1.0 james lisa robert michael lucy john paul lily
+41. gathering lucy 20230530 2100 1.0 michael mike john lisa mary paul lily
+42. gathering lily 20230513 1900 1.0 john mary robert michael lucy mike lisa
+=========================================================================
+                            - End of Rejected List  -

@@ -1,0 +1,90 @@
+***  Performance  ***
+
+Algorithm used: FCFS
+
+Total Number of Requests Received: 100
+      Number of Requests Accepted: 43 (43.00%)
+      Number of Requests Rejected: 57 (57.00%)
+
+Number of Requests Accepted by Individual:
+John		-16
+Mary		-18
+Lucy		-22
+Paul		-19
+Lisa		-16
+James		-17
+Robert		-19
+Mike		-18
+Michael		-19
+Lily		-24
+Utilization of Time Slot:
+John		-20.00%
+Mary		-22.58%
+Lucy		-25.16%
+Paul		-21.94%
+Lisa		-16.77%
+James		-18.71%
+Robert		-20.65%
+Mike		-20.00%
+Michael		-23.23%
+Lily		-27.74%
+***  Performance  ***
+
+Algorithm used: Priority
+
+Total Number of Requests Received: 100
+      Number of Requests Accepted: 43 (43.00%)
+      Number of Requests Rejected: 57 (57.00%)
+
+Number of Requests Accepted by Individual:
+John		-15
+Mary		-13
+Lucy		-18
+Paul		-20
+Lisa		-13
+James		-14
+Robert		-14
+Mike		-13
+Michael		-15
+Lily		-19
+Utilization of Time Slot:
+John		-20.00%
+Mary		-16.13%
+Lucy		-21.94%
+Paul		-25.81%
+Lisa		-14.19%
+James		-16.13%
+Robert		-16.13%
+Mike		-14.19%
+Michael		-20.00%
+Lily		-25.16%
+***  Performance  ***
+
+Algorithm used: NEW
+
+Total Number of Requests Received: 100
+      Number of Requests Accepted: 56 (56.00%)
+      Number of Requests Rejected: 44 (44.00%)
+
+Number of Requests Accepted by Individual:
+John		-18
+Mary		-18
+Lucy		-25
+Paul		-20
+Lisa		-17
+James		-18
+Robert		-18
+Mike		-13
+Michael		-18
+Lily		-23
+Utilization of Time Slot:
+John		-31.61%
+Mary		-31.61%
+Lucy		-44.52%
+Paul		-31.61%
+Lisa		-25.81%
+James		-31.61%
+Robert		-26.45%
+Mike		-24.52%
+Michael		-33.55%
+Lily		-38.71%

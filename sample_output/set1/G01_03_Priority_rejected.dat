@@ -1,0 +1,62 @@
+***Rejected List***
+Altogether there are 57 appointments rejected
+=========================================================================
+1. privateTime robert 20230514 1800 4.0
+2. privateTime lucy 20230511 1800 3.0
+3. projectMeeting robert 20230515 2000 2.0 lily lucy michael mike paul james lisa
+4. projectMeeting james 20230521 2000 3.0 mike john lily paul
+5. projectMeeting michael 20230514 1900 4.0 lily mary
+6. projectMeeting michael 20230503 2100 2.0 mary mike john james lisa lily paul
+7. projectMeeting john 20230514 1800 2.0 lily michael mike lisa
+8. projectMeeting michael 20230503 2100 1.0 john lucy mary robert lily james lisa
+9. projectMeeting michael 20230501 1800 3.0 mary paul john mike james robert lisa lucy
+10. projectMeeting james 20230525 1900 4.0 paul lily mary michael
+11. projectMeeting lisa 20230506 1800 4.0 john lucy michael mike
+12. projectMeeting robert 20230521 2100 1.0 mike james lisa lily mary michael
+13. projectMeeting lisa 20230521 2000 3.0 james
+14. projectMeeting paul 20230514 2000 1.0 robert
+15. projectMeeting mike 20230521 2000 1.0 paul lily
+16. projectMeeting james 20230501 1900 3.0 mary lucy mike robert lisa michael john lily paul
+17. groupStudy lucy 20230511 2100 1.0 lily
+18. groupStudy lucy 20230515 1800 2.0 lily robert mary james lisa paul michael
+19. groupStudy mike 20230513 2000 2.0 james robert lily lucy michael
+20. groupStudy lucy 20230528 2000 3.0 john
+21. groupStudy michael 20230519 1800 3.0 paul mary lily
+22. groupStudy mary 20230520 2100 2.0 james lucy paul michael
+23. groupStudy mary 20230518 2000 3.0 james lisa michael lucy john mike robert lily paul
+24. groupStudy john 20230511 2100 1.0 james lucy mary lisa mike lily
+25. groupStudy mary 20230505 1800 3.0 paul lucy mike
+26. groupStudy robert 20230526 2000 1.0 michael paul lily john mary lucy james lisa mike
+27. groupStudy lisa 20230508 1900 3.0 john robert mike
+28. groupStudy mike 20230511 2000 1.0 john james lily lucy michael paul mary robert lisa
+29. groupStudy john 20230518 2100 1.0 paul james mary michael lily lisa mike lucy
+30. groupStudy michael 20230515 2100 2.0 paul robert mary lucy lily james mike lisa john
+31. groupStudy lily 20230521 2000 3.0 lucy lisa paul
+32. groupStudy lisa 20230504 1900 4.0 robert lily james michael paul lucy
+33. groupStudy lisa 20230512 2000 1.0 robert mary lucy james michael mike
+34. groupStudy paul 20230514 2100 2.0 lucy lisa
+35. groupStudy mike 20230520 2100 1.0 james lisa robert michael lucy john paul lily
+36. gathering michael 20230520 1900 3.0 lisa robert mary james lucy
+37. gathering lucy 20230505 2000 2.0 john mary lisa mike michael james robert
+38. gathering mike 20230525 2000 1.0 james mary lily michael lucy paul john
+39. gathering john 20230508 2100 1.0 paul lucy lisa lily robert
+40. gathering lisa 20230528 1900 1.0 paul lucy robert mary lily
+41. gathering mary 20230518 1900 4.0 john
+42. gathering lisa 20230501 2100 1.0 mike mary john james
+43. gathering mike 20230512 1800 3.0 lucy michael lisa robert paul james lily
+44. gathering mary 20230508 1800 5.0 james john mike lucy
+45. gathering mary 20230517 1800 4.0 mike lily john lucy
+46. gathering michael 20230508 1900 2.0 john lucy mary paul lisa mike robert lily james
+47. gathering michael 20230506 2000 1.0 mike mary paul lisa lily lucy john robert
+48. gathering mike 20230515 1900 2.0 john robert michael
+49. gathering mary 20230528 1900 2.0 paul mike john lily lisa michael james robert
+50. gathering robert 20230507 2000 1.0 paul
+51. gathering mike 20230526 1900 4.0 lily lucy
+52. gathering paul 20230528 1900 2.0 robert lisa lily mike mary james lucy
+53. gathering lily 20230514 1900 2.0 paul mary
+54. gathering lucy 20230524 1800 5.0 lisa michael lily robert paul john james mike mary
+55. gathering lucy 20230530 2100 1.0 michael mike john lisa mary paul lily
+56. gathering lucy 20230511 1800 4.0 james
+57. gathering lily 20230513 1900 1.0 john mary robert michael lucy mike lisa
+=========================================================================
+                            - End of Rejected List  -

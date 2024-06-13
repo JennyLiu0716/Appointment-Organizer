@@ -1,0 +1,54 @@
+***  Performance  ***
+
+Algorithm used: FCFS
+
+Total Number of Requests Received: 40
+      Number of Requests Accepted: 23 (57.50%)
+      Number of Requests Rejected: 17 (42.50%)
+
+Number of Requests Accepted by Individual:
+John		-11
+Mary		-15
+Lucy		-15
+Paul		-15
+Utilization of Time Slot:
+John		-16.77%
+Mary		-20.00%
+Lucy		-21.29%
+Paul		-21.29%
+***  Performance  ***
+
+Algorithm used: Priority
+
+Total Number of Requests Received: 40
+      Number of Requests Accepted: 24 (60.00%)
+      Number of Requests Rejected: 16 (40.00%)
+
+Number of Requests Accepted by Individual:
+John		-11
+Mary		-15
+Lucy		-14
+Paul		-15
+Utilization of Time Slot:
+John		-14.84%
+Mary		-18.71%
+Lucy		-16.13%
+Paul		-20.00%
+***  Performance  ***
+
+Algorithm used: NEW
+
+Total Number of Requests Received: 40
+      Number of Requests Accepted: 34 (85.00%)
+      Number of Requests Rejected: 6 (15.00%)
+
+Number of Requests Accepted by Individual:
+John		-19
+Mary		-18
+Lucy		-21
+Paul		-22
+Utilization of Time Slot:
+John		-31.61%
+Mary		-24.52%
+Lucy		-30.32%
+Paul		-32.90%

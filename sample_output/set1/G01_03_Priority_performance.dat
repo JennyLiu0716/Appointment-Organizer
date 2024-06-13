@@ -1,0 +1,28 @@
+***  Performance  ***
+
+Total Number of Requests Received: 100
+      Number of Requests Accepted: 43 (43.00%)
+      Number of Requests Rejected: 57 (57.00%)
+
+Number of Requests Accepted by Individual:
+John		-15
+Mary		-13
+Lucy		-18
+Paul		-20
+Lisa		-13
+James		-14
+Robert		-14
+Mike		-13
+Michael		-15
+Lily		-19
+Utilization of Time Slot:
+John		-20.00%
+Mary		-16.13%
+Lucy		-21.94%
+Paul		-25.81%
+Lisa		-14.19%
+James		-16.13%
+Robert		-16.13%
+Mike		-14.19%
+Michael		-20.00%
+Lily		-25.16%
